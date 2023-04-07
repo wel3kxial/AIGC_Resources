@@ -34,6 +34,9 @@ Stanford Institute for Human-Centered Artificial Intelligence (HAI) </p>
 
 <h2> Recent Papers </h2>
 
+<b> <a href="https://arxiv.org/pdf/2203.02155.pdf" target="_blank"> Training language models to follow instructions with human feedback </a>   Instruct GPT  </b> March 2022
+<p> OpenAI </p>
+
 <b> <a href="https://arxiv.org/pdf/2112.10752.pdf" target="_blank"> High-Resolution Image Synthesis with Latent Diffusion Models </a>   Stable Diffusion  </b> April 2022
 <p> Heidelberg University & Runway </p>
 
