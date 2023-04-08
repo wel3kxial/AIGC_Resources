@@ -16,7 +16,7 @@ Gather AIGC most useful tools, materials, publications and reports
 <p> Center for Research on Foundation Models (CRFM)  &
 Stanford Institute for Human-Centered Artificial Intelligence (HAI) </p>
 
-<b> <a href="https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf" target="_blank"> Language Models are Few-Shot Learners </a>   GPT-2  </b> <a href="https://github.com/openai/gpt-2" target="_blank"> Code </a> Dec 2020
+<b> <a href="https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf" target="_blank"> Language Models are Unsupervised Multitask Learners </a>   GPT-2  </b> <a href="https://github.com/openai/gpt-2" target="_blank"> Code </a> Dec 2020
 <p> OpenAI</p>
 
 <b> <a href="https://arxiv.org/pdf/2103.00020.pdf" target="_blank"> Learning Transferable Visual Models From Natural Language Supervision </a>   CLIP  </b> <a href="https://github.com/openai/CLIP" target="_blank"> Code </a> Feb 2021
