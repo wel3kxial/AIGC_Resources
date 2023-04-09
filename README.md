@@ -101,5 +101,10 @@ Stanford Institute for Human-Centered Artificial Intelligence (HAI) </p>
 <h2> AIGC Courses </h2>
 
 <b>  <a href="https://stanford-cs324.github.io/winter2022/" target="_blank">  CS324 Large Language Models  </a>    </b>   Stanford  2023
+
+<h2> Very Useful Source Code </h2>
+
+<b>  <a href="https://github.com/openai/openai-cookbook/" target="_blank">  OpenAI Cookbook  </a>    </b>  
+<b>  <a href="https://gpt-index.readthedocs.io/en/latest/" target="_blank">  Llama Index </a>    </b>  
  
 
