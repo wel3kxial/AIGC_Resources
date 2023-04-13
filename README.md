@@ -76,9 +76,11 @@ Stanford Institute for Human-Centered Artificial Intelligence (HAI) </p>
 <b> <a href="https://ai.facebook.com/research/publications/segment-anything/" target="_blank"> Segment Anything </a>   SAM  </b>  <a href="https://github.com/facebookresearch/segment-anything" target="_blank"> Code </a> April 2023
 <p> Meta</p>
 
-<b> <a href="https://arxiv.org/pdf/2304.03277.pdf" target="_blank"> Instruction Tuning with GPT-4 </a> GPT4LLM  </b>  <a href="https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM" target="_blank"> Code </a> April 2023
-<p> Microsoft </p>
+<b> <a href="https://arxiv.org/pdf/2304.03277.pdf" target="_blank"> Instruction Tuning with GPT-4 </a>  </b>  <a href="https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM" target="_blank"> Code </a>  April 2023
+<p> Stanford & Google </p>
 
+<b> <a href="https://arxiv.org/pdf/2304.03442.pdf" target="_blank"> Generative Agents: Interactive Simulacra of Human Behavior </a>  </b>  April 2023
+<p> Microsoft </p>
 
 <h2> Important Reports </h2>
 
