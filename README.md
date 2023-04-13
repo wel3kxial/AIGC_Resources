@@ -61,6 +61,9 @@ Stanford Institute for Human-Centered Artificial Intelligence (HAI) </p>
 <b> <a href="https://arxiv.org/pdf/2303.04671.pdf" target="_blank"> Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models </a>   Visual ChatGPT  </b>  <a href="https://github.com/microsoft/visual-chatgpt" target="_blank"> Code </a>  March 2023
 <p> Microsoft</p>
 
+<b> <a href="https://arxiv.org/pdf/2303.01469.pdf" target="_blank"> Consistency Models </a>  </b> March 2023
+<p> OpenAI </p>
+
 <b> <a href="https://arxiv.org/pdf/2302.14045.pdf" target="_blank">Language Is Not All You Need: Aligning Perception with Language Models </a>   Aligning  </b> March 2023
 <p> Microsoft</p>
 
