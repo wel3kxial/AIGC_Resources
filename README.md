@@ -70,11 +70,15 @@ Stanford Institute for Human-Centered Artificial Intelligence (HAI) </p>
 <b> <a href="https://arxiv.org/pdf/2303.17580.pdf" target="_blank"> BloombergGPT: A Large Language Model for Finance</a>   BloombergGPT  </b> March 2023
 <p> Bloomberg </p>
 
-<b> <a href="https://arxiv.org/pdf/2303.17580.pdf" target="_blank"> HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face</a>   HuggingGPT  </b> April 2023
+<b> <a href="https://arxiv.org/pdf/2303.17580.pdf" target="_blank"> HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face</a>   HuggingGPT  </b> <a href="https://github.com/microsoft/JARVIS" target="_blank"> Code </a>  April 2023
 <p> Microsoft</p>
 
 <b> <a href="https://ai.facebook.com/research/publications/segment-anything/" target="_blank"> Segment Anything </a>   SAM  </b>  <a href="https://github.com/facebookresearch/segment-anything" target="_blank"> Code </a> April 2023
 <p> Meta</p>
+
+<b> <a href="https://arxiv.org/pdf/2304.03277.pdf" target="_blank"> Instruction Tuning with GPT-4 </a>   </b>  <a href="https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM" target="_blank"> Code </a> April 2023
+<p> Microsoft </p>
+
 
 <h2> Important Reports </h2>
 
@@ -88,15 +92,19 @@ Stanford Institute for Human-Centered Artificial Intelligence (HAI) </p>
 
 <b>  <a href="https://www.midjourney.com/" target="_blank">  MidJourney </a>    </b>  
 
-<b>  <a href="https://crfm.stanford.edu/2023/03/13/alpaca.html" target="_blank">  Alpaca  </a>    </b>    <a href="https://github.com/tatsu-lab/stanford_alpaca" target="_blank"> Open Source Code </a>  Stanford
+<b>  <a href="https://crfm.stanford.edu/2023/03/13/alpaca.html" target="_blank">  Alpaca  </a>    </b>    <a href="https://github.com/tatsu-lab/stanford_alpaca" target="_blank"> Open Source Code </a>  Stanford    March 2023
 
-<b>  <a href="https://vicuna.lmsys.org/" target="_blank">  Vicuna  </a>    </b>    <a href="https://github.com/lm-sys/FastChat" target="_blank"> Open Source Code </a>   UC Berkeley, CMU, Stanford, and UC San Diego
+<b>  <a href="https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html" target="_blank">  Dolly  </a>    </b>    <a href="https://github.com/databrickslabs/dolly" target="_blank"> Open Source Code </a>  Databricks     March 2023
 
+<b>  <a href="https://vicuna.lmsys.org/" target="_blank">  Vicuna  </a>    </b>    <a href="https://github.com/lm-sys/FastChat" target="_blank"> Open Source Code </a>   UC Berkeley, CMU, Stanford, and UC San Diego     March 2023
+ 
 <b>  <a href="https://www.chatpdf.com/" target="_blank">  ChatPDF  </a>  </b>   March 2023
 
 <b>  <a href="https://bard.google.com/" target="_blank">  Bard  </a>    </b>   Google   March 2023
 
 <b>  <a href="https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/" target="_blank">  Microsoft 365 Copilot  </a>    </b>   Microsoft   March 2023
+
+<b>  <a href="https://github.com/Torantulino/Auto-GPT" target="_blank">  AutoGPT </a>    </b>   Community Effort  April 2023
 
 <h2> AIGC Courses </h2>
 
