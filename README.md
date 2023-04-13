@@ -88,7 +88,7 @@ Stanford Institute for Human-Centered Artificial Intelligence (HAI) </p>
 
 <b> Sparks of Artificial General Intelligence: Early experiments with GPT-4 </b>   <a href="https://arxiv.org/pdf/2303.12712.pdf" target="_blank">  Link  </a>   Microsoft
 
-
+<b> A Survey of Large Language Models </b>   <a href="https://arxiv.org/pdf/2303.18223.pdf" target="_blank">  Link  </a>    Renmin University, China & University of Montreal, Canada
 
 <h2> Important Projects</h2>
 
