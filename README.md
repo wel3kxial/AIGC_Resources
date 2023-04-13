@@ -99,7 +99,7 @@ Stanford Institute for Human-Centered Artificial Intelligence (HAI) </p>
 
 <b>  <a href="https://crfm.stanford.edu/2023/03/13/alpaca.html" target="_blank">  Alpaca  </a>    </b>    <a href="https://github.com/tatsu-lab/stanford_alpaca" target="_blank"> Open Source Code </a>  Stanford    March 2023
 
-<b>  <a href="https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html" target="_blank">  Dolly  </a>    </b>    <a href="https://github.com/databrickslabs/dolly" target="_blank"> Open Source Code </a>  Databricks     March 2023
+<b>  <a href="https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html" target="_blank">  Dolly  </a>    </b>  OK to use commercially   <a href="https://github.com/databrickslabs/dolly" target="_blank"> Open Source Code </a>  Databricks     March 2023
 
 <b>  <a href="https://vicuna.lmsys.org/" target="_blank">  Vicuna  </a>    </b>    <a href="https://github.com/lm-sys/FastChat" target="_blank"> Open Source Code </a>   UC Berkeley, CMU, Stanford, and UC San Diego     March 2023
  
