@@ -117,6 +117,8 @@ Stanford Institute for Human-Centered Artificial Intelligence (HAI) </p>
 
 <b>  <a href="https://github.com/reworkd/AgentGPT" target="_blank">  AgentGPT </a>    </b>   Community Effort  April 2023
 
+<b>  <a href="https://minigpt-4.github.io/" target="_blank">  MiniGPT </a>    </b>   King Abdullah University of Science and Technology  April 2023
+
 <h2> AIGC Courses </h2>
 
 <b>  <a href="https://stanford-cs324.github.io/winter2022/" target="_blank">  CS324 Large Language Models  </a>    </b>   Stanford  2023
