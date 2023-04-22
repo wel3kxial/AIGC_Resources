@@ -107,6 +107,8 @@ Stanford Institute for Human-Centered Artificial Intelligence (HAI) </p>
 
 <b>  <a href="https://bard.google.com/" target="_blank">  Bard  </a>    </b>   Google   March 2023
 
+<b>  <a href="https://github.com/hwchase17/langchain" target="_blank">  Langchain </a>    </b>   Community Effort   March 2023
+
 <b>  <a href="https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/" target="_blank">  Microsoft 365 Copilot  </a>    </b>   Microsoft   March 2023
 
 <b>  <a href="https://github.com/Torantulino/Auto-GPT" target="_blank">  AutoGPT </a>    </b>   Community Effort  April 2023
