@@ -85,6 +85,9 @@ Stanford Institute for Human-Centered Artificial Intelligence (HAI) </p>
 <b> <a href="https://arxiv.org/pdf/2304.03442.pdf" target="_blank"> Generative Agents: Interactive Simulacra of Human Behavior </a>  </b>  April 2023
 <p> Microsoft </p>
 
+<b> <a href="https://arxiv.org/pdf/2304.11062.pdf" target="_blank"> Scaling Transformer to 1M tokens and beyond with RMT </a>  </b>  April 2023
+<p> DeepPavlov</p>
+
 <h2> Important Reports </h2>
 
 <b> Stanford AI index Report  2023 </b>   <a href="https://aiindex.stanford.edu/report/" target="_blank">  Link  </a>    Stanford
