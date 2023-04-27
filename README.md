@@ -96,6 +96,9 @@ Stanford Institute for Human-Centered Artificial Intelligence (HAI) </p>
 
 <b> A Survey of Large Language Models </b>   <a href="https://arxiv.org/pdf/2303.18223.pdf" target="_blank">  Link  </a>    Renmin University, China & University of Montreal, Canada
 
+<b> A Cookbook of Self-Supervised Learning </b>   <a href="https://arxiv.org/pdf/2304.12210.pdf" target="_blank">  Link  </a>   Meta & many others
+
+
 <h2> Important Projects</h2>
 
 <b>  <a href="https://www.midjourney.com/" target="_blank">  MidJourney </a>    </b>  
@@ -126,7 +129,11 @@ Stanford Institute for Human-Centered Artificial Intelligence (HAI) </p>
 
 <h2> AIGC Courses </h2>
 
+<b>  <a href="https://www.cs.princeton.edu/courses/archive/fall22/cos597G/" target="_blank">  COS597G Understanding Large Language Models  </a>    </b>   Princeton 2022
+
 <b>  <a href="https://stanford-cs324.github.io/winter2022/" target="_blank">  CS324 Large Language Models  </a>    </b>   Stanford  2023
+
+
 
 <h2> Very Useful Source Code </h2>
 
