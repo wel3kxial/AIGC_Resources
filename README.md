@@ -88,6 +88,9 @@ Stanford Institute for Human-Centered Artificial Intelligence (HAI) </p>
 <b> <a href="https://arxiv.org/pdf/2304.11062.pdf" target="_blank"> Scaling Transformer to 1M tokens and beyond with RMT </a>  </b> (-- Note:  this one is pending removal or keeping based on future research results.) April 2023
 <p> DeepPavlov</p>  
 
+<b> <a href="https://arxiv.org/pdf/2304.07193.pdf" target="_blank"> DINOv2: Learning Robust Visual Features without Supervision </a>  </b>  April 2023
+<p> Meta </p>
+
 <h2> Important Reports </h2>
 
 <b> Stanford AI index Report  2023 </b>   <a href="https://aiindex.stanford.edu/report/" target="_blank">  Link  </a>    Stanford
