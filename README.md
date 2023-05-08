@@ -132,6 +132,8 @@ Stanford Institute for Human-Centered Artificial Intelligence (HAI) </p>
 
 <b>  <a href="https://github.com/deep-floyd/IF" target="_blank">  DeepFloyd IF </a>    </b>  Stability.ai April 2023
 
+<b>  <a href="https://github.com/openlm-research/open_llama" target="_blank">  Open Llama </a>    </b>  Berkeley  May 2023
+
 <h2> AIGC Courses </h2>
 
 <b>  <a href="https://www.cs.princeton.edu/courses/archive/fall22/cos597G/" target="_blank">  COS597G Understanding Large Language Models  </a>    </b>   Princeton 2022
