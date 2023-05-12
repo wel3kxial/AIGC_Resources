@@ -91,6 +91,9 @@ Stanford Institute for Human-Centered Artificial Intelligence (HAI) </p>
 <b> <a href="https://arxiv.org/pdf/2304.07193.pdf" target="_blank"> DINOv2: Learning Robust Visual Features without Supervision </a>  </b>  April 2023
 <p> Meta </p>
 
+<b> <a href="https://arxiv.org/pdf/2305.02463v1.pdf" target="_blank"> Shap·E: Generating Conditional 3D Implicit Functions </a>  </b> <a href="https://github.com/openai/shap-e" target="_blank"> Code </a> May 2023
+<p> OpenAI </p>
+
 <b> <a href="https://arxiv.org/pdf/2305.05665.pdf" target="_blank"> IMAGEBIND: One Embedding Space To Bind Them All </a>  </b>  May 2023
 <p> Meta </p>
 
@@ -101,6 +104,8 @@ Stanford Institute for Human-Centered Artificial Intelligence (HAI) </p>
 <b> Sparks of Artificial General Intelligence: Early experiments with GPT-4 </b>   <a href="https://arxiv.org/pdf/2303.12712.pdf" target="_blank">  Link  </a>   Microsoft
 
 <b> A Survey of Large Language Models </b>   <a href="https://arxiv.org/pdf/2303.18223.pdf" target="_blank">  Link  </a>    Renmin University, China & University of Montreal, Canada
+
+<b> Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond </b>   <a href="https://arxiv.org/pdf/2304.13712v2.pdf" target="_blank">  Link  </a>   Amazon & many others
 
 <b> A Cookbook of Self-Supervised Learning </b>   <a href="https://arxiv.org/pdf/2304.12210.pdf" target="_blank">  Link  </a>   Meta & many others
 
