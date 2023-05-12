@@ -91,6 +91,9 @@ Stanford Institute for Human-Centered Artificial Intelligence (HAI) </p>
 <b> <a href="https://arxiv.org/pdf/2304.07193.pdf" target="_blank"> DINOv2: Learning Robust Visual Features without Supervision </a>  </b>  April 2023
 <p> Meta </p>
 
+<b> <a href="https://arxiv.org/pdf/2305.05665.pdf" target="_blank"> IMAGEBIND: One Embedding Space To Bind Them All </a>  </b>  May 2023
+<p> Meta </p>
+
 <h2> Important Reports </h2>
 
 <b> Stanford AI index Report  2023 </b>   <a href="https://aiindex.stanford.edu/report/" target="_blank">  Link  </a>    Stanford
