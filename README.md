@@ -235,15 +235,39 @@ Gather AIGC most useful tools, materials, publications and reports
 
 <h2> Important Reports </h2>
 
-<b> Stanford AI index Report  2023 </b>   <a href="https://aiindex.stanford.edu/report/" target="_blank">  Link  </a>    Stanford
+<table>
+  <tr>
+    <th>Report</th>
+    <th>Link</th>
+    <th>Institution</th>
+  </tr>
+  <tr>
+    <td>Stanford AI index Report 2023</td>
+    <td><a href="https://aiindex.stanford.edu/report/" target="_blank">Link</a></td>
+    <td>Stanford</td>
+  </tr>
+  <tr>
+    <td>Sparks of Artificial General Intelligence: Early experiments with GPT-4</td>
+    <td><a href="https://arxiv.org/pdf/2303.12712.pdf" target="_blank">Link</a></td>
+    <td>Microsoft</td>
+  </tr>
+  <tr>
+    <td>A Survey of Large Language Models</td>
+    <td><a href="https://arxiv.org/pdf/2303.18223.pdf" target="_blank">Link</a></td>
+    <td>Renmin University, China & University of Montreal, Canada</td>
+  </tr>
+  <tr>
+    <td>Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond</td>
+    <td><a href="https://arxiv.org/pdf/2304.13712v2.pdf" target="_blank">Link</a></td>
+    <td>Amazon & many others</td>
+  </tr>
+  <tr>
+    <td>A Cookbook of Self-Supervised Learning</td>
+    <td><a href="https://arxiv.org/pdf/2304.12210.pdf" target="_blank">Link</a></td>
+    <td>Meta & many others</td>
+  </tr>
+</table>
 
-<b> Sparks of Artificial General Intelligence: Early experiments with GPT-4 </b>   <a href="https://arxiv.org/pdf/2303.12712.pdf" target="_blank">  Link  </a>   Microsoft
-
-<b> A Survey of Large Language Models </b>   <a href="https://arxiv.org/pdf/2303.18223.pdf" target="_blank">  Link  </a>    Renmin University, China & University of Montreal, Canada
-
-<b> Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond </b>   <a href="https://arxiv.org/pdf/2304.13712v2.pdf" target="_blank">  Link  </a>   Amazon & many others
-
-<b> A Cookbook of Self-Supervised Learning </b>   <a href="https://arxiv.org/pdf/2304.12210.pdf" target="_blank">  Link  </a>   Meta & many others
 
 
 <h2> Important Projects</h2>
