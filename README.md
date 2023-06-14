@@ -269,7 +269,7 @@ with Large Language Models</a></td>
 </tr>
    <tr>
   <td><a href="https://arxiv.org/pdf/2305.11206.pdf" target="_blank">LIMA: Less Is More for Alignment</a></td>
-  <td></td>
+  <td>LIMA</td>
   <td>May 2023</td>
   <td>Meta, CMU and Many</td>
   <td></td>
@@ -280,6 +280,13 @@ Tools via Self-instruction</a></td>
   <td>GPT4Tools</td>
   <td>May 2023</td>
   <td>Tsinghua University and Many</td>
+ <td><a href="https://github.com/StevenGrove/GPT4Tools" target="_blank">Code</a></td>
+<tr>
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2305.14314.pdf" target="_blank">QLORA: Efficient Finetuning of Quantized LLMs</a></td>
+  <td>QLORA</td>
+  <td>May 2023</td>
+  <td>University of Washington</td>
  <td><a href="https://github.com/StevenGrove/GPT4Tools" target="_blank">Code</a></td>
 <tr>
  <tr>
