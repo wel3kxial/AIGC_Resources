@@ -3,33 +3,83 @@ Gather AIGC most useful tools, materials, publications and reports
 
 <h2> Foundation Papers </h2>
 
-<b> <a href="https://arxiv.org/pdf/1706.03762.pdf" target="_blank"> Attention Is All You Need </a>   Transformer  </b> Dec 2017
-<p> Google</p>
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Model</th>
+      <th>Publication Date</th>
+      <th>Code</th>
+      <th>Organization</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://arxiv.org/pdf/1706.03762.pdf" target="_blank"><b>Attention Is All You Need</b></a></td>
+      <td>Transformer</td>
+      <td>Dec 2017</td>
+      <td></td>
+      <td>Google</td>
+    </tr>
+    <tr>
+      <td><a href="https://arxiv.org/pdf/2108.07258.pdf" target="_blank"><b>Improving Language Understanding by Generative Pre-Training</b></a></td>
+      <td>GPT</td>
+      <td>Jun 2018</td>
+      <td></td>
+      <td>OpenAI</td>
+    </tr>
+    <tr>
+      <td><a href="https://arxiv.org/pdf/1810.04805.pdf" target="_blank"><b>BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</b></a></td>
+      <td>Bert</td>
+      <td>May 2019</td>
+      <td></td>
+      <td>Google</td>
+    </tr>
+    <tr>
+      <td><a href="https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf" target="_blank"><b>On the Opportunities and Risks of Foundation Models</b></a></td>
+      <td></td>
+      <td>Jul 2022</td>
+      <td></td>
+      <td>Center for Research on Foundation Models (CRFM) & Stanford Institute for Human-Centered Artificial Intelligence (HAI)</td>
+    </tr>
+    <tr>
+      <td><a href="https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf" target="_blank"><b>Language Models are Unsupervised Multitask Learners</b></a></td>
+      <td>GPT-2</td>
+      <td>Dec 2020</td>
+      <td><a href="https://github.com/openai/gpt-2" target="_blank">Code</a></td>
+      <td>OpenAI</td>
+    </tr>
+    <tr>
+      <td><a href="https://arxiv.org/pdf/2103.00020.pdf" target="_blank"><b>Learning Transferable Visual Models From Natural Language Supervision</b></a></td>
+      <td>CLIP</td>
+      <td>Feb 2021</td>
+      <td><a href="https://github.com/openai/CLIP" target="_blank">Code</a></td>
+      <td>OpenAI</td>
+    </tr>
+    <tr>
+      <td><a href="https://arxiv.org/pdf/2107.03374.pdf" target="_blank"><b>Evaluating Large Language Models Trained on Code</b></a></td>
+      <td>Codex</td>
+      <td>Jul 2021</td>
+      <td></td>
+      <td>OpenAI</td>
+    </tr>
+    <tr>
+      <td><a href="https://arxiv.org/pdf/2203.07814.pdf" target="_blank"><b>Competition-Level Code Generation with AlphaCode</b></a></td>
+      <td>AlphaCode</td>
+      <td>Feb 2022</td>
+      <td></td>
+      <td>DeepMind</td>
+    </tr>
+    <tr>
+      <td><a href="https://arxiv.org/pdf/2203.13474.pdf" target="_blank"><b>Codegen: an open large language model for code with multi-turn program synthesis</b></a></td>
+      <td>CodeGen</td>
+      <td>March 2022</td>
+      <td><a href="https://github.com/salesforce/CodeGen" target="_blank">Code</a></td>
+      <td>Salesforce</td>
+    </tr>
+  </tbody>
+</table>
 
-<b> <a href="https://arxiv.org/pdf/2108.07258.pdf" target="_blank"> Improving Language Understanding by Generative Pre-Training </a>   GPT  </b> Jun 2018
-<p> OpenAI</p>
-
-<b> <a href="https://arxiv.org/pdf/1810.04805.pdf" target="_blank"> BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding </a>   Bert  </b> May 2019
-<p> Google</p>
-
-<b> <a href="https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf" target="_blank"> On the Opportunities and Risks of Foundation Models  </a> </b>  Jul 2022
-<p> Center for Research on Foundation Models (CRFM)  &
-Stanford Institute for Human-Centered Artificial Intelligence (HAI) </p>
-
-<b> <a href="https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf" target="_blank"> Language Models are Unsupervised Multitask Learners </a>   GPT-2  </b> <a href="https://github.com/openai/gpt-2" target="_blank"> Code </a> Dec 2020
-<p> OpenAI</p>
-
-<b> <a href="https://arxiv.org/pdf/2103.00020.pdf" target="_blank"> Learning Transferable Visual Models From Natural Language Supervision </a>   CLIP  </b> <a href="https://github.com/openai/CLIP" target="_blank"> Code </a> Feb 2021
-<p> OpenAI</p>
-
-<b> <a href="https://arxiv.org/pdf/2107.03374.pdf" target="_blank"> Evaluating Large Language Models Trained on Code </a>  Codex </b> Jul 2021
-<p> OpenAI</p>
-
-<b> <a href="https://arxiv.org/pdf/2203.07814.pdf" target="_blank"> Competition-Level Code Generation with AlphaCode </a>  AlphaCode </b> Feb 2022
-<p> DeepMind</p>
-
-<b> <a href="https://arxiv.org/pdf/2203.13474.pdf" target="_blank"> Codegen: an open large language model for code with multi-turn program synthesis </a>  CodeGen </b> <a href="https://github.com/salesforce/CodeGen" target="_blank"> Code </a> March 2022
-<p> Salesforce</p>
 
 
 <h2> Recent Papers </h2>
