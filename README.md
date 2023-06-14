@@ -80,72 +80,165 @@ Gather AIGC most useful tools, materials, publications and reports
   </tbody>
 </table>
 
-
-
 <h2> Recent Papers </h2>
+  <table>
+    <tr>
+      <th>Title</th>
+      <th>Short Name</th>
+      <th>Date</th>
+      <th>Institution</th>
+      <th>Code (if available)</th>
+    </tr>
+    <tr>
+      <td><a href="https://arxiv.org/pdf/2203.02155.pdf" target="_blank"> Training language models to follow instructions with human feedback </a></td>
+      <td>Instruct GPT</td>
+      <td>March 2022</td>
+      <td>OpenAI</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://arxiv.org/pdf/2112.10752.pdf" target="_blank"> High-Resolution Image Synthesis with Latent Diffusion Models </a></td>
+      <td>Stable Diffusion</td>
+      <td>April 2022</td>
+      <td>Heidelberg University & Runway</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://cdn.openai.com/papers/dall-e-2.pdf" target="_blank"> Hierarchical Text-Conditional Image Generation with CLIP Latents </a></td>
+      <td>Dalle 2</td>
+      <td>April 2022</td>
+      <td>OpenAI</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://arxiv.org/pdf/2204.05862.pdf" target="_blank"> Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback </a></td>
+      <td>RLHF</td>
+      <td>Jun 2022</td>
+      <td>Anthropic</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://arxiv.org/pdf/2005.14165.pdf" target="_blank"> Language Models are Few-Shot Learners </a></td>
+      <td>GPT-3</td>
+      <td>Jun 2022</td>
+      <td>OpenAI</td>
+      <td></td>
+    </tr>
+    <tr>
+  <td><a href="https://arxiv.org/pdf/2112.09332.pdf" target="_blank">WebGPT: Browser-assisted question-answering with human feedback</a></td>
+  <td>WebGPT</td>
+  <td>Jun 2022</td>
+  <td>OpenAI</td>
+  <td></td>
+</tr>
+<tr>
+  <td><a href="https://cdn.openai.com/papers/whisper.pdf" target="_blank">Robust Speech Recognition via Large-Scale Weak Supervision</a></td>
+  <td>Whisper</td>
+  <td>Sep 2022</td>
+  <td>OpenAI</td>
+  <td><a href="https://github.com/openai/whisper" target="_blank">Code</a></td>
+</tr>
+<tr>
+  <td><a href="https://arxiv.org/pdf/2302.13971.pdf" target="_blank">LLaMA: Open and Efficient Foundation Language Models</a></td>
+  <td>LLaMA</td>
+  <td>Feb 2023</td>
+  <td>Meta</td>
+  <td></td>
+</tr>
+<tr>
+  <td><a href="https://arxiv.org/pdf/2303.04671.pdf" target="_blank">Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models</a></td>
+  <td>Visual ChatGPT</td>
+  <td>March 2023</td>
+  <td>Microsoft</td>
+  <td><a href="https://github.com/microsoft/visual-chatgpt" target="_blank">Code</a></td>
+</tr>
+<tr>
+  <td><a href="https://arxiv.org/pdf/2303.01469.pdf" target="_blank">Consistency Models</a></td>
+  <td></td>
+  <td>March 2023</td>
+  <td>OpenAI</td>
+  <td><a href="https://github.com/openai/consistency_models" target="_blank">Code</a></td>
+</tr>
+<tr>
+  <td><a href="https://arxiv.org/pdf/2302.14045.pdf" target="_blank">Language Is Not All You Need: Aligning Perception with Language Models</a></td>
+  <td>Aligning</td>
+  <td>March 2023</td>
+  <td>Microsoft</td>
+  <td></td>
+</tr>
+<tr>
+  <td><a href="https://arxiv.org/pdf/2303.08774.pdf" target="_blank">GPT-4 Technical Report</a></td>
+  <td>GPT-4</td>
+  <td>March 2023</td>
+  <td>OpenAI</td>
+  <td></td>
+</tr>
+<tr>
+  <td><a href="https://arxiv.org/pdf/2303.17580.pdf" target="_blank">BloombergGPT: A Large Language Model for Finance</a></td>
+  <td>BloombergGPT</td>
+  <td>March 2023</td>
+  <td>Bloomberg</td>
+  <td></td>
+</tr>
+<tr>
+  <td><a href="https://arxiv.org/pdf/2303.17580.pdf" target="_blank">HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face</a></td>
+  <td>HuggingGPT</td>
+  <td>April 2023</td>
+  <td>Microsoft</td>
+  <td><a href="https://github.com/microsoft/JARVIS" target="_blank">Code</a></td>
+</tr>
+<tr>
+  <td><a href="https://ai.facebook.com/research/publications/segment-anything/" target="_blank">Segment Anything</a></td>
+  <td>SAM</td>
+  <td>April 2023</td>
+  <td>Meta</td>
+  <td><a href="https://github.com/facebookresearch/segment-anything" target="_blank">Code</a></td>
+</tr>
+<tr>
+  <td><a href="https://arxiv.org/pdf/2304.03277.pdf" target="_blank">Instruction Tuning with GPT-4</a></td>
+  <td></td>
+  <td>April 2023</td>
+  <td>Stanford & Google</td>
+  <td><a href="https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM" target="_blank">Code</a></td>
+</tr>
+<tr>
+  <td><a href="https://arxiv.org/pdf/2304.03442.pdf" target="_blank">Generative Agents: Interactive Simulacra of Human Behavior</a></td>
+  <td></td>
+  <td>April 2023</td>
+  <td>Microsoft</td>
+  <td></td>
+</tr>
+<tr>
+  <td><a href="https://arxiv.org/pdf/2304.11062.pdf" target="_blank">Scaling Transformer to 1M tokens and beyond with RMT</a></td>
+  <td></td>
+  <td>April 2023</td>
+  <td>DeepPavlov</td>
+  <td></td>
+</tr>
+<tr>
+  <td><a href="https://arxiv.org/pdf/2304.07193.pdf" target="_blank">DINOv2: Learning Robust Visual Features without Supervision</a></td>
+  <td></td>
+  <td>April 2023</td>
+  <td>Meta</td>
+  <td></td>
+</tr>
+<tr>
+  <td><a href="https://arxiv.org/pdf/2305.02463v1.pdf" target="_blank">Shap·E: Generating Conditional 3D Implicit Functions</a></td>
+  <td></td>
+  <td>May 2023</td>
+  <td>OpenAI</td>
+  <td><a href="https://github.com/openai/shap-e" target="_blank">Code</a></td>
+</tr>
+<tr>
+  <td><a href="https://arxiv.org/pdf/2305.05665.pdf" target="_blank">IMAGEBIND: One Embedding Space To Bind Them All</a></td>
+  <td></td>
+  <td>May 2023</td>
+  <td>Meta</td>
+  <td></td>
+</tr>
 
-<b> <a href="https://arxiv.org/pdf/2203.02155.pdf" target="_blank"> Training language models to follow instructions with human feedback </a>   Instruct GPT  </b> March 2022
-<p> OpenAI </p>
+  </table>
 
-<b> <a href="https://arxiv.org/pdf/2112.10752.pdf" target="_blank"> High-Resolution Image Synthesis with Latent Diffusion Models </a>   Stable Diffusion  </b> April 2022
-<p> Heidelberg University & Runway </p>
-
-<b> <a href="https://cdn.openai.com/papers/dall-e-2.pdf" target="_blank"> Hierarchical Text-Conditional Image Generation with CLIP Latents </a>   Dalle 2  </b> April 2022
-<p> OpenAI </p>
-
-<b> <a href="https://arxiv.org/pdf/2204.05862.pdf" target="_blank"> Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback </a>   RLHF  </b> Jun 2022
-<p> Anthropic</p>
-
-<b> <a href="https://arxiv.org/pdf/2005.14165.pdf" target="_blank"> Language Models are Few-Shot Learners </a>   GPT-3  </b> Jun 2022
-<p> OpenAI</p>
-
-<b> <a href="https://arxiv.org/pdf/2112.09332.pdf" target="_blank"> WebGPT: Browser-assisted question-answering with human feedback </a>   WebGPT  </b> Jun 2022
-<p> OpenAI</p>
-
-<b> <a href="https://cdn.openai.com/papers/whisper.pdf" target="_blank"> Robust Speech Recognition via Large-Scale Weak Supervision </a>   Whisper  </b>  <a href="https://github.com/openai/whisper" target="_blank"> Code </a> Sep 2022
-<p> OpenAI</p>
-
-<b> <a href="https://arxiv.org/pdf/2302.13971.pdf" target="_blank"> LLaMA: Open and Efficient Foundation Language Models </a>   LLaMA  </b> Feb 2023
-<p> Meta</p>
-
-<b> <a href="https://arxiv.org/pdf/2303.04671.pdf" target="_blank"> Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models </a>   Visual ChatGPT  </b>  <a href="https://github.com/microsoft/visual-chatgpt" target="_blank"> Code </a>  March 2023
-<p> Microsoft</p>
-
-<b> <a href="https://arxiv.org/pdf/2303.01469.pdf" target="_blank"> Consistency Models </a>  </b> <a href="https://github.com/openai/consistency_models" target="_blank"> Code </a>  March 2023
-<p> OpenAI </p>
-
-<b> <a href="https://arxiv.org/pdf/2302.14045.pdf" target="_blank">Language Is Not All You Need: Aligning Perception with Language Models </a>   Aligning  </b> March 2023
-<p> Microsoft</p>
-
-<b> <a href="https://arxiv.org/pdf/2303.08774.pdf" target="_blank"> GPT-4 Technical Report </a>   GPT-4  </b> March 2023
-<p> OpenAI</p>
-
-<b> <a href="https://arxiv.org/pdf/2303.17580.pdf" target="_blank"> BloombergGPT: A Large Language Model for Finance</a>   BloombergGPT  </b> March 2023
-<p> Bloomberg </p>
-
-<b> <a href="https://arxiv.org/pdf/2303.17580.pdf" target="_blank"> HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face</a>   HuggingGPT  </b> <a href="https://github.com/microsoft/JARVIS" target="_blank"> Code </a>  April 2023
-<p> Microsoft</p>
-
-<b> <a href="https://ai.facebook.com/research/publications/segment-anything/" target="_blank"> Segment Anything </a>   SAM  </b>  <a href="https://github.com/facebookresearch/segment-anything" target="_blank"> Code </a> April 2023
-<p> Meta</p>
-
-<b> <a href="https://arxiv.org/pdf/2304.03277.pdf" target="_blank"> Instruction Tuning with GPT-4 </a>  </b>  <a href="https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM" target="_blank"> Code </a>  April 2023
-<p> Stanford & Google </p>
-
-<b> <a href="https://arxiv.org/pdf/2304.03442.pdf" target="_blank"> Generative Agents: Interactive Simulacra of Human Behavior </a>  </b>  April 2023
-<p> Microsoft </p>
-
-<b> <a href="https://arxiv.org/pdf/2304.11062.pdf" target="_blank"> Scaling Transformer to 1M tokens and beyond with RMT </a>  </b> (-- Note:  this one is pending removal or keeping based on future research results.) April 2023
-<p> DeepPavlov</p>  
-
-<b> <a href="https://arxiv.org/pdf/2304.07193.pdf" target="_blank"> DINOv2: Learning Robust Visual Features without Supervision </a>  </b>  April 2023
-<p> Meta </p>
-
-<b> <a href="https://arxiv.org/pdf/2305.02463v1.pdf" target="_blank"> Shap·E: Generating Conditional 3D Implicit Functions </a>  </b> <a href="https://github.com/openai/shap-e" target="_blank"> Code </a> May 2023
-<p> OpenAI </p>
-
-<b> <a href="https://arxiv.org/pdf/2305.05665.pdf" target="_blank"> IMAGEBIND: One Embedding Space To Bind Them All </a>  </b>  May 2023
-<p> Meta </p>
 
 <h2> Important Reports </h2>
 
