@@ -283,6 +283,13 @@ Tools via Self-instruction</a></td>
  <td><a href="https://github.com/StevenGrove/GPT4Tools" target="_blank">Code</a></td>
 <tr>
  <tr>
+  <td><a href="https://arxiv.org/pdf/2305.11147.pdf" target="_blank">UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild</a></td>
+  <td>UniControl</td>
+  <td>May 2023</td>
+  <td>Salesforce, Stanford University, Northeastern University</td>
+ <td><a href="https://github.com/salesforce/UniControl" target="_blank">Code</a></td>
+<tr>
+ <tr>
   <td><a href="https://arxiv.org/pdf/2305.14314.pdf" target="_blank">QLORA: Efficient Finetuning of Quantized LLMs</a></td>
   <td>QLORA</td>
   <td>May 2023</td>
@@ -310,6 +317,20 @@ Text-to-Behavior in Minecraft</a></td>
   <td>June 2023</td>
   <td>Ohio State</td>
    <td><a href="https://osu-nlp-group.github.io/Mind2Web/" target="_blank">Code</a></td> 
+</tr>
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2306.00983.pdf" target="_blank">StyleDrop: Text-to-Image Generation in Any Style</a></td>
+  <td>StyleDrop</td>
+  <td>June 2023</td>
+  <td>Ohio State</td>
+   <td><a href="https://styledrop.github.io/" target="_blank">Code</a></td> 
+</tr>
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2306.05284.pdf" target="_blank">Simple and Controllable Music Generation</a></td>
+  <td>MusicGen</td>
+  <td>June 2023</td>
+  <td>Meta</td>
+   <td><a href="https://github.com/facebookresearch/audiocraft" target="_blank">Code</a></td> 
 </tr>
   </table>
 
