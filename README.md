@@ -350,7 +350,7 @@ Text-to-Behavior in Minecraft</a></td>
   <td><a href="https://arxiv.org/pdf/2306.00983.pdf" target="_blank">StyleDrop: Text-to-Image Generation in Any Style</a></td>
   <td>StyleDrop</td>
   <td>June 2023</td>
-  <td>Ohio State</td>
+  <td>Google</td>
    <td><a href="https://styledrop.github.io/" target="_blank">Code</a></td> 
 </tr>
  <tr>
