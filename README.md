@@ -220,7 +220,7 @@ Gather AIGC most useful tools, materials, publications and reports
   <td>Chinese LLaMa</td>
   <td>April 2023</td>
   <td>Microsoft</td>
-  <td><a href="https://github.com/ymcui/Chinese-LLaMA-Alpaca" target="_blank">Code</a><</td>  
+  <td><a href="https://github.com/ymcui/Chinese-LLaMA-Alpaca" target="_blank">Code</a></td>  
 </tr>
  <tr>
   <td><a href="https://arxiv.org/pdf/2304.01373.pdf" target="_blank">Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling</a></td>
