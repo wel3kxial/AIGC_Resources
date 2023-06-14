@@ -222,6 +222,13 @@ Gather AIGC most useful tools, materials, publications and reports
   <td>OpenAI</td>
   <td><a href="https://github.com/openai/shap-e" target="_blank">Code</a></td>
 </tr>
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2305.06161.pdf" target="_blank">StarCoder: may the source be with you</a></td>
+  <td>StarCoder</td>
+  <td>May 2023</td>
+  <td>Many</td>
+  <td><a href="https://github.com/openai/shap-e" target="_blank">Code</a></td>
+</tr>
 <tr>
   <td><a href="https://arxiv.org/pdf/2305.05665.pdf" target="_blank">IMAGEBIND: One Embedding Space To Bind Them All</a></td>
   <td>IMAGEBIND</td>
@@ -309,6 +316,11 @@ Text-to-Behavior in Minecraft</a></td>
     <td>A Cookbook of Self-Supervised Learning</td>
     <td><a href="https://arxiv.org/pdf/2304.12210.pdf" target="_blank">Link</a></td>
     <td>Meta & many others</td>
+  </tr>
+    <tr>
+    <td>Let’s Verify Step by Step</td>
+    <td><a href="https://cdn.openai.com/improving-mathematical-reasoning-with-process-supervision/Lets_Verify_Step_by_Step.pdf" target="_blank">Link</a></td>
+    <td>OpenAI</td>
   </tr>
 </table>
 
