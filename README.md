@@ -287,7 +287,7 @@ Tools via Self-instruction</a></td>
   <td>QLORA</td>
   <td>May 2023</td>
   <td>University of Washington</td>
- <td><a href="https://github.com/StevenGrove/GPT4Tools" target="_blank">Code</a></td>
+ <td><a href="https://github.com/artidoro/qlora" target="_blank">Code</a></td>
 <tr>
  <tr>
   <td><a href="https://arxiv.org/pdf/2305.14387.pdf" target="_blank">AlpacaFarm: A Simulation Framework for
@@ -295,7 +295,7 @@ Methods that Learn from Human Feedback</a></td>
   <td>AlpacaFarm</td>
   <td>May 2023</td>
   <td>Stanford University</td>
- <td><a href="https://github.com/StevenGrove/GPT4Tools" target="_blank">Code</a></td>
+ <td></td>
 <tr>
  <tr>
   <td><a href="https://arxiv.org/pdf/2306.00937.pdf" target="_blank">STEVE-1: A Generative Model for
