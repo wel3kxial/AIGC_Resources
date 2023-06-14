@@ -252,6 +252,14 @@ with Large Language Models</a></td>
   <td>Deepmind, Princeton University, Stanford University</td>
   <td><a href="https://github.com/ctlllll/LLM-ToolMaker" target="_blank">Code</a></td>
 </tr>
+  <tr>
+  <td><a href="https://arxiv.org/pdf/2305.18752.pdf" target="_blank">GPT4Tools: Teaching Large Language Model to Use
+Tools via Self-instruction</a></td>
+  <td>GPT4Tools</td>
+  <td>May 2023</td>
+  <td>Tsinghua University and Many</td>
+ <td><a href="https://github.com/StevenGrove/GPT4Tools" target="_blank">Code</a></td>
+<tr>
    <tr>
   <td><a href="https://arxiv.org/pdf/2306.00937.pdf" target="_blank">STEVE-1: A Generative Model for
 Text-to-Behavior in Minecraft</a></td>
@@ -261,9 +269,9 @@ Text-to-Behavior in Minecraft</a></td>
   <td></td>
 <tr>
   <td><a href="https://arxiv.org/pdf/2306.06070.pdf" target="_blank">MIND2WEB: Towards a Generalist Agent for the Web</a></td>
-  <td>MIND2WEB/td>
+  <td>MIND2WEB</td>
   <td>June 2023</td>
-  <td>University of Toronto</td>
+  <td>Ohio State</td>
    <td><a href="https://osu-nlp-group.github.io/Mind2Web/" target="_blank">Code</a></td> 
 </tr>
   </table>
