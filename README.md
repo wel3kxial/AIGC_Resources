@@ -302,25 +302,25 @@ Text-to-Behavior in Minecraft</a></td>
   <tr>
     <td>Sparks of Artificial General Intelligence: Early experiments with GPT-4</td>
     <td><a href="https://arxiv.org/pdf/2303.12712.pdf" target="_blank">Link</a></td>
-    <td>/td>
+    <td></td>
     <td>Microsoft</td>
   </tr>
   <tr>
     <td>A Survey of Large Language Models</td>
     <td><a href="https://arxiv.org/pdf/2303.18223.pdf" target="_blank">Link</a></td>
-    <td>/td>
+    <td></td>
     <td>Renmin University, China & University of Montreal, Canada</td>
   </tr>
   <tr>
     <td>Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond</td>
     <td><a href="https://arxiv.org/pdf/2304.13712v2.pdf" target="_blank">Link</a></td>
-    <td>/td>
+    <td></td>
     <td>Amazon & many others</td>
   </tr>
   <tr>
     <td>A Cookbook of Self-Supervised Learning</td>
     <td><a href="https://arxiv.org/pdf/2304.12210.pdf" target="_blank">Link</a></td>
-    <td>/td>
+    <td></td>
     <td>Meta & many others</td>
   </tr>
     <tr>
