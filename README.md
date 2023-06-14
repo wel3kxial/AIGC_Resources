@@ -229,6 +229,14 @@ Gather AIGC most useful tools, materials, publications and reports
   <td>Many</td>
   <td><a href="https://github.com/openai/shap-e" target="_blank">Code</a></td>
 </tr>
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2305.08845.pdf" target="_blank">Large Language Models are Zero-Shot Rankers for
+Recommender Systems</a></td>
+  <td></td>
+  <td>May 2023</td>
+  <td>Renmin University, Wechat, US San Diego</td>
+  <td></td>
+</tr>
 <tr>
   <td><a href="https://arxiv.org/pdf/2305.05665.pdf" target="_blank">IMAGEBIND: One Embedding Space To Bind Them All</a></td>
   <td>IMAGEBIND</td>
@@ -308,7 +316,7 @@ Text-to-Behavior in Minecraft</a></td>
   <tr>
     <td>A Survey of Large Language Models</td>
     <td><a href="https://arxiv.org/pdf/2303.18223.pdf" target="_blank">Link</a></td>
-    <td></td>
+    <td>April 2023</td>
     <td>Renmin University, China & University of Montreal, Canada</td>
   </tr>
   <tr>
@@ -325,9 +333,15 @@ Text-to-Behavior in Minecraft</a></td>
   </tr>
     <tr>
     <td>Let’s Verify Step by Step</td>
-    <td><a href="https://cdn.openai.com/improving-mathematical-reasoning-with-process-supervision/Lets_Verify_Step_by_Step.pdf" target="_blank">Link</a></td>
+    <td><a href="https://cdn.openai.com/improving-mathematical-reasoning-with-process-supervision/Lets_Verify_Step_by_Step.pdf" target="_blank">Link</a>    </td>
      <td>May 2023</td>
     <td>OpenAI</td>
+  </tr>
+  <tr>
+    <td>On the Design Fundamentals of Diffusion Models: A Survey</td>
+    <td><a href="https://arxiv.org/pdf/2306.04542.pdf" target="_blank">Link</a></td>
+    <td></td>
+    <td>Durham University</td>
   </tr>
 </table>
 
