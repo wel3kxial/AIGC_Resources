@@ -340,7 +340,7 @@ Text-to-Behavior in Minecraft</a></td>
   <tr>
     <td>On the Design Fundamentals of Diffusion Models: A Survey</td>
     <td><a href="https://arxiv.org/pdf/2306.04542.pdf" target="_blank">Link</a></td>
-    <td></td>
+    <td>June 2023</td>
     <td>Durham University</td>
   </tr>
 </table>
