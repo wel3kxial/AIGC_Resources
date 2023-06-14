@@ -216,6 +216,13 @@ Gather AIGC most useful tools, materials, publications and reports
   <td></td>
 </tr>
  <tr>
+  <td><a href="https://arxiv.org/pdf/2304.08177.pdf" target="_blank">Efficient and Effective Text Encoding for Chinese LLaMA and Alpaca</a></td>
+  <td>Chinese LLaMa</td>
+  <td>April 2023</td>
+  <td>Microsoft</td>
+  <td><a href="https://github.com/ymcui/Chinese-LLaMA-Alpaca" target="_blank">Code</a><</td>  
+</tr>
+ <tr>
   <td><a href="https://arxiv.org/pdf/2304.01373.pdf" target="_blank">Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling</a></td>
   <td>Pythia</td>
   <td>April 2023</td>
@@ -280,6 +287,13 @@ with Large Language Models</a></td>
   <td>May 2023</td>
   <td>Deepmind, Princeton University, Stanford University</td>
   <td><a href="https://github.com/ctlllll/LLM-ToolMaker" target="_blank">Code</a></td>
+</tr>
+   <tr>
+  <td><a href="https://arxiv.org/pdf/2212.10560.pdf" target="_blank">SELF-INSTRUCT: Aligning Language Models with Self-Generated Instructions</a></td>
+  <td>SELF-INSTRUCT</td>
+  <td>May 2023</td>
+  <td>Many</td>
+  <td><a href="https://github.com/yizhongw/self-instruct" target="_blank">Code</a></td>
 </tr>
    <tr>
   <td><a href="https://arxiv.org/pdf/2305.11206.pdf" target="_blank">LIMA: Less Is More for Alignment</a></td>
@@ -438,11 +452,15 @@ Text-to-Behavior in Minecraft</a></td>
 
 <b>  <a href="https://github.com/svc-develop-team/so-vits-svc" target="_blank">  SoftVC VITS Singing Voice Conversion </a>    </b>  Community  May 2023
 
+<b>  <a href="https://falconllm.tii.ae/" target="_blank">  Falcon </a>    </b>  Tii  May 2023
+
 <h2> AIGC Courses </h2>
 
 <b>  <a href="https://www.cs.princeton.edu/courses/archive/fall22/cos597G/" target="_blank">  COS597G Understanding Large Language Models  </a>    </b>   Princeton 2022
 
 <b>  <a href="https://stanford-cs324.github.io/winter2022/" target="_blank">  CS324 Large Language Models  </a>    </b>   Stanford  2023
+
+<b>  <a href="https://www.deeplearning.ai/short-courses/" target="_blank">  ChatGPT, LangChain and DS Courses  </a>    </b>   Deeplearning.ai   Jun  2023
 
 
 
@@ -450,5 +468,6 @@ Text-to-Behavior in Minecraft</a></td>
 
 <b>  <a href="https://github.com/openai/openai-cookbook/" target="_blank">  OpenAI Cookbook  </a>    </b>  
 <b>  <a href="https://gpt-index.readthedocs.io/en/latest/" target="_blank">  Llama Index </a>    </b>  
+
  
 
