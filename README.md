@@ -209,29 +209,22 @@ Gather AIGC most useful tools, materials, publications and reports
   <td></td>
 </tr>
 <tr>
-  <td><a href="https://arxiv.org/pdf/2304.11062.pdf" target="_blank">Scaling Transformer to 1M tokens and beyond with RMT</a></td>
-  <td></td>
-  <td>April 2023</td>
-  <td>DeepPavlov</td>
-  <td></td>
-</tr>
-<tr>
   <td><a href="https://arxiv.org/pdf/2304.07193.pdf" target="_blank">DINOv2: Learning Robust Visual Features without Supervision</a></td>
-  <td></td>
+  <td>DINOv2</td>
   <td>April 2023</td>
   <td>Meta</td>
   <td></td>
 </tr>
 <tr>
   <td><a href="https://arxiv.org/pdf/2305.02463v1.pdf" target="_blank">Shap·E: Generating Conditional 3D Implicit Functions</a></td>
-  <td></td>
+  <td>Shap·E</td>
   <td>May 2023</td>
   <td>OpenAI</td>
   <td><a href="https://github.com/openai/shap-e" target="_blank">Code</a></td>
 </tr>
 <tr>
   <td><a href="https://arxiv.org/pdf/2305.05665.pdf" target="_blank">IMAGEBIND: One Embedding Space To Bind Them All</a></td>
-  <td></td>
+  <td>IMAGEBIND</td>
   <td>May 2023</td>
   <td>Meta</td>
   <td></td>
