@@ -267,6 +267,13 @@ with Large Language Models</a></td>
   <td>Deepmind, Princeton University, Stanford University</td>
   <td><a href="https://github.com/ctlllll/LLM-ToolMaker" target="_blank">Code</a></td>
 </tr>
+   <tr>
+  <td><a href="https://arxiv.org/pdf/2305.11206.pdf" target="_blank">LIMA: Less Is More for Alignment</a></td>
+  <td></td>
+  <td>May 2023</td>
+  <td>Meta, CMU and Many</td>
+  <td></td>
+</tr>
   <tr>
   <td><a href="https://arxiv.org/pdf/2305.18752.pdf" target="_blank">GPT4Tools: Teaching Large Language Model to Use
 Tools via Self-instruction</a></td>
