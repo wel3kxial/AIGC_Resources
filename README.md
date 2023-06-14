@@ -290,36 +290,43 @@ Text-to-Behavior in Minecraft</a></td>
   <tr>
     <th>Report</th>
     <th>Link</th>
+    <th>Date</th>
     <th>Institution</th>
   </tr>
   <tr>
     <td>Stanford AI index Report 2023</td>
     <td><a href="https://aiindex.stanford.edu/report/" target="_blank">Link</a></td>
+    <td></td>
     <td>Stanford</td>
   </tr>
   <tr>
     <td>Sparks of Artificial General Intelligence: Early experiments with GPT-4</td>
     <td><a href="https://arxiv.org/pdf/2303.12712.pdf" target="_blank">Link</a></td>
+    <td>/td>
     <td>Microsoft</td>
   </tr>
   <tr>
     <td>A Survey of Large Language Models</td>
     <td><a href="https://arxiv.org/pdf/2303.18223.pdf" target="_blank">Link</a></td>
+    <td>/td>
     <td>Renmin University, China & University of Montreal, Canada</td>
   </tr>
   <tr>
     <td>Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond</td>
     <td><a href="https://arxiv.org/pdf/2304.13712v2.pdf" target="_blank">Link</a></td>
+    <td>/td>
     <td>Amazon & many others</td>
   </tr>
   <tr>
     <td>A Cookbook of Self-Supervised Learning</td>
     <td><a href="https://arxiv.org/pdf/2304.12210.pdf" target="_blank">Link</a></td>
+    <td>/td>
     <td>Meta & many others</td>
   </tr>
     <tr>
     <td>Let’s Verify Step by Step</td>
     <td><a href="https://cdn.openai.com/improving-mathematical-reasoning-with-process-supervision/Lets_Verify_Step_by_Step.pdf" target="_blank">Link</a></td>
+     <td>May 2023</td>
     <td>OpenAI</td>
   </tr>
 </table>
