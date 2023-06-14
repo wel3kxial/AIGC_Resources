@@ -229,7 +229,14 @@ Gather AIGC most useful tools, materials, publications and reports
   <td>Meta</td>
   <td></td>
 </tr>
-
+<tr>
+  <td><a href="https://arxiv.org/pdf/2305.10973.pdf" target="_blank">Drag Your GAN: Interactive Point-based Manipulation on the
+Generative Image Manifold</a></td>
+  <td>DragGAN</td>
+  <td>May 2023</td>
+  <td>Many</td>
+  <td></td>
+</tr>
   </table>
 
 
