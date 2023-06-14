@@ -215,6 +215,13 @@ Gather AIGC most useful tools, materials, publications and reports
   <td>Microsoft</td>
   <td></td>
 </tr>
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2304.01373.pdf" target="_blank">Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling</a></td>
+  <td>Pythia</td>
+  <td>April 2023</td>
+  <td>MMany</td>
+  <td></td>
+</tr>
 <tr>
   <td><a href="https://arxiv.org/pdf/2304.07193.pdf" target="_blank">DINOv2: Learning Robust Visual Features without Supervision</a></td>
   <td>DINOv2</td>
