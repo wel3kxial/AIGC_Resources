@@ -237,6 +237,35 @@ Generative Image Manifold</a></td>
   <td>Many</td>
   <td><a href="https://vcai.mpi-inf.mpg.de/projects/DragGAN/" target="_blank">Code</a></td>
 </tr>
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2305.16291.pdf" target="_blank">VOYAGER: An Open-Ended Embodied Agent
+with Large Language Models</a></td>
+  <td>VOYAGER</td>
+  <td>May 2023</td>
+  <td>NVIDIA and Many</td>
+  <td><a href="https://github.com/MineDojo/Voyager" target="_blank">Code</a></td>
+</tr>
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2305.17126.pdf" target="_blank">Large Language Models as Tool Makers</a></td>
+  <td></td>
+  <td>May 2023</td>
+  <td>Deepmind, Princeton University, Stanford University</td>
+  <td><a href="https://github.com/ctlllll/LLM-ToolMaker" target="_blank">Code</a></td>
+</tr>
+   <tr>
+  <td><a href="https://arxiv.org/pdf/2306.00937.pdf" target="_blank">STEVE-1: A Generative Model for
+Text-to-Behavior in Minecraft</a></td>
+  <td>STEVE-1</td>
+  <td>June 2023</td>
+  <td>University of Toronto</td>
+  <td></td>
+<tr>
+  <td><a href="https://arxiv.org/pdf/2306.06070.pdf" target="_blank">MIND2WEB: Towards a Generalist Agent for the Web</a></td>
+  <td>MIND2WEB/td>
+  <td>June 2023</td>
+  <td>University of Toronto</td>
+   <td><a href="https://osu-nlp-group.github.io/Mind2Web/" target="_blank">Code</a></td> 
+</tr>
   </table>
 
 
