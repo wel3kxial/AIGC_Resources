@@ -235,7 +235,7 @@ Generative Image Manifold</a></td>
   <td>DragGAN</td>
   <td>May 2023</td>
   <td>Many</td>
-  <td>https://vcai.mpi-inf.mpg.de/projects/DragGAN/</td>
+  <td><a href="https://vcai.mpi-inf.mpg.de/projects/DragGAN/" target="_blank">Code</a></td>
 </tr>
   </table>
 
