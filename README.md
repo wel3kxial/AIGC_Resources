@@ -70,6 +70,13 @@ Gather AIGC most useful tools, materials, publications and reports
       <td></td>
       <td>DeepMind</td>
     </tr>
+     <tr>
+      <td><a href="https://arxiv.org/pdf/2302.05543.pdf" target="_blank"><b>Adding Conditional Control to Text-to-Image Diffusion Models</b></a></td>
+      <td>ControlNet</td>
+      <td>Feb 2022</td>
+      <td><a href="https://github.com/lllyasviel/ControlNet" target="_blank">Code</a></td>
+      <td>Stanford University</td>
+    </tr>
     <tr>
       <td><a href="https://arxiv.org/pdf/2203.13474.pdf" target="_blank"><b>Codegen: an open large language model for code with multi-turn program synthesis</b></a></td>
       <td>CodeGen</td>
