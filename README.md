@@ -360,6 +360,14 @@ Text-to-Behavior in Minecraft</a></td>
   <td>Meta</td>
    <td><a href="https://github.com/facebookresearch/audiocraft" target="_blank">Code</a></td> 
 </tr>
+</tr>
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2306.02707.pdf" target="_blank">Orca: Progressive Learning from Complex Explanation Traces of GPT-4</a></td>
+  <td>Orca</td>
+  <td>June 2023</td>
+  <td>Meta</td>
+   <td></td> 
+</tr>
   </table>
 
 
