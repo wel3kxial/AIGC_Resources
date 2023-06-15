@@ -365,7 +365,7 @@ Text-to-Behavior in Minecraft</a></td>
   <td><a href="https://arxiv.org/pdf/2306.02707.pdf" target="_blank">Orca: Progressive Learning from Complex Explanation Traces of GPT-4</a></td>
   <td>Orca</td>
   <td>June 2023</td>
-  <td>Meta</td>
+  <td>Microsoft</td>
    <td></td> 
 </tr>
   </table>
