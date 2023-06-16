@@ -314,7 +314,7 @@ with Large Language Models</a></td>
   <td>SELF-INSTRUCT</td>
   <td>May 2023</td>
   <td>Many</td>
- <td><a href="https://github.com/StevenGrove/GPT4Tools" target="_blank">Code</a></td>
+ <td><a href="https://github.com/yizhongw/self-instruct" target="_blank">Code</a></td>
 <tr>
  <tr>
   <td><a href="https://arxiv.org/pdf/2305.11147.pdf" target="_blank">UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild</a></td>
