@@ -303,11 +303,17 @@ with Large Language Models</a></td>
   <td></td>
 </tr>
   <tr>
-  <td><a href="https://arxiv.org/pdf/2305.18752.pdf" target="_blank">GPT4Tools: Teaching Large Language Model to Use
-Tools via Self-instruction</a></td>
+  <td><a href="https://arxiv.org/pdf/2305.18752.pdf" target="_blank">GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction</a></td>
   <td>GPT4Tools</td>
   <td>May 2023</td>
   <td>Tsinghua University and Many</td>
+ <td><a href="https://github.com/StevenGrove/GPT4Tools" target="_blank">Code</a></td>
+<tr>
+  <tr>
+  <td><a href="https://arxiv.org/pdf/2212.10560.pdf" target="_blank">SELF-INSTRUCT: Aligning Language Models with Self-Generated Instructions</a></td>
+  <td>SELF-INSTRUCT</td>
+  <td>May 2023</td>
+  <td>Many</td>
  <td><a href="https://github.com/StevenGrove/GPT4Tools" target="_blank">Code</a></td>
 <tr>
  <tr>
@@ -366,6 +372,13 @@ Text-to-Behavior in Minecraft</a></td>
   <td>Orca</td>
   <td>June 2023</td>
   <td>Microsoft</td>
+   <td></td> 
+</tr>
+<tr>
+  <td><a href="https://arxiv.org/pdf/2306.08276.pdf" target="_blank">TryOnDiffusion: A Tale of Two UNets</a></td>
+  <td>TryOnDiffusion</td>
+  <td>June 2023</td>
+  <td>University of Washington， Google</td>
    <td></td> 
 </tr>
   </table>
