@@ -477,6 +477,7 @@ Text-to-Behavior in Minecraft</a></td>
 <b>  <a href="https://github.com/openai/openai-cookbook/" target="_blank">  OpenAI Cookbook  </a>    </b>  
 <b>  <a href="https://gpt-index.readthedocs.io/en/latest/" target="_blank">  Llama Index </a>    </b>  
 <b>  <a href="https://github.com/imartinez/privateGPT" target="_blank">  PrivateGPT</a>    </b>  
+<b>  <a href="https://github.com/ggerganov/llama.cpp" target="_blank">  Llama.cpp </a>    </b> 
 
  
 
