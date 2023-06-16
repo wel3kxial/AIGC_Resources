@@ -422,6 +422,12 @@ Text-to-Behavior in Minecraft</a></td>
     <td>June 2023</td>
     <td>Durham University</td>
   </tr>
+    <tr>
+    <td>Open LLM Leaderboard</td>
+    <td><a href="https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard" target="_blank">Link</a></td>
+    <td>Update in real time</td>
+    <td>Huggingface</td>
+  </tr>
 </table>
 
 
