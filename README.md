@@ -381,6 +381,13 @@ Text-to-Behavior in Minecraft</a></td>
   <td>University of Washington， Google</td>
    <td></td> 
 </tr>
+<tr>
+  <td><a href="https://research.facebook.com/publications/voicebox-text-guided-multilingual-universal-speech-generation-at-scale/" target="_blank">Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale</a></td>
+  <td>Voicebox</td>
+  <td>June 2023</td>
+  <td>Meta</td>
+   <td></td> 
+</tr>
   </table>
 
 
