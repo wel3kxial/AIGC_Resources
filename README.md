@@ -386,7 +386,7 @@ Text-to-Behavior in Minecraft</a></td>
   <td>WizardLM</td>
   <td>June 2023</td>
   <td>Microsoft, Peking University</td>
-   <td></td> 
+  <td><a href="https://github.com/nlpxucan/WizardLM" target="_blank">Code</a></td> 
 </tr>
 <tr>
   <td><a href="https://research.facebook.com/publications/voicebox-text-guided-multilingual-universal-speech-generation-at-scale/" target="_blank">Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale</a></td>
