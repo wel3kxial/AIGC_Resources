@@ -513,16 +513,16 @@ Text-to-Behavior in Minecraft</a></td>
 <b>  <a href="https://github.com/ggerganov/llama.cpp" target="_blank">  Llama.cpp </a>    </b> 
 
 <h2> Main LLM Development Tips,   Updated June 21, 2023 </h2>
-<p> 1. Data is still king - LLMs are great but if you don't have quality clean data you won’t go far.
-2. Smaller models can be just as good as larger general models at specific tasks. And cheaper!
-3. Fine-tuning is becoming cheaper.
-4. Evaluation of LLMs is very hard - feels very subjective still.
-5. Managed APIs are expensive.
-6. "Traditional" ML isn't going anywhere.
-7. Memory matters - for both serving and training.
-8. Information retrieval w/ vector databases is becoming standard pattern.
-9. Start w/ prompt engineering and push that to its limits before fine-tuning w/ smaller models.
-10. Use agents/chains only when necessary. They are unruly.
-11. Latency is critical for a good user experience.
-12. Privacy is critical.  </p>
+<p> 1. Data is still king - LLMs are great but if you don't have quality clean data you won’t go far.</p>
+<p>2. Smaller models can be just as good as larger general models at specific tasks. And cheaper!</p>
+<p>3. Fine-tuning is becoming cheaper.</p>
+<p>4. Evaluation of LLMs is very hard - feels very subjective still.</p>
+<p>5. Managed APIs are expensive.</p>
+<p>6. "Traditional" ML isn't going anywhere.</p>
+<p>7. Memory matters - for both serving and training.</p>
+<p>8. Information retrieval w/ vector databases is becoming standard pattern.</p>
+<p>9. Start w/ prompt engineering and push that to its limits before fine-tuning w/ smaller models.</p>
+<p>10. Use agents/chains only when necessary. They are unruly.</p>
+<p>11. Latency is critical for a good user experience.</p>
+<p>12. Privacy is critical.  </p>
 
