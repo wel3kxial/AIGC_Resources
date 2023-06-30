@@ -531,6 +531,8 @@ Editing</a></td>
 
 <b>  <a href="https://www.deeplearning.ai/short-courses/" target="_blank">  ChatGPT, LangChain and DS Courses  </a>    </b>   Deeplearning.ai   Jun  2023
 
+<b>  <a href="https://arxiv.org/pdf/2306.14895.pdf" target="_blank"> Large Multimodal Models: Notes on CVPR 2023 Tutorial  </a>    </b>   Microsoft   Jun  2023
+
 
 
 <h2> Very Useful Source Code </h2>
