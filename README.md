@@ -395,6 +395,14 @@ Text-to-Behavior in Minecraft</a></td>
   <td>Meta</td>
    <td></td> 
 </tr>
+<tr>
+  <td><a href="https://arxiv.org/pdf/2306.14435.pdf" target="_blank">DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image
+Editing</a></td>
+  <td>DragDiffusion</td>
+  <td>June 2023</td>
+  <td>National University of Singapore & ByteDance</td>
+   <td></td> 
+</tr>
   </table>
 
 
@@ -443,6 +451,18 @@ Text-to-Behavior in Minecraft</a></td>
      <td>May 2023</td>
     <td>OpenAI</td>
   </tr>
+   <tr>
+    <td>A Survey on Segment Anything Model (SAM): Vision Foundation Model Meets Prompt Engineering</td>
+    <td><a href="https://arxiv.org/pdf/2306.06211.pdf" target="_blank">Link</a></td>
+    <td>May 2023</td>
+    <td>Kyung Hee University and many</td>
+  </tr>
+  <tr>
+    <td>A Comprehensive Survey on Segment Anything Model for Vision and Beyond</td>
+    <td><a href="https://arxiv.org/pdf/2305.08196.pdf" target="_blank">Link</a></td>
+    <td>May 2023</td>
+    <td>Hong Kong University of Science and Technology and many</td>
+  </tr>
   <tr>
     <td>On the Design Fundamentals of Diffusion Models: A Survey</td>
     <td><a href="https://arxiv.org/pdf/2306.04542.pdf" target="_blank">Link</a></td>
@@ -454,6 +474,12 @@ Text-to-Behavior in Minecraft</a></td>
     <td><a href="https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard" target="_blank">Link</a></td>
     <td>Update in real time</td>
     <td>Huggingface</td>
+  </tr>
+    <tr>
+    <td>A Survey on Segment Anything Model (SAM): Vision Foundation Model Meets Prompt Engineering</td>
+    <td><a href="https://arxiv.org/pdf/2306.06211.pdf" target="_blank">Link</a></td>
+    <td>May 2023</td>
+    <td>JKyung Hee University and many</td>
   </tr>
 </table>
 
