@@ -495,6 +495,8 @@ Text-to-Behavior in Minecraft</a></td>
 
 <b>  <a href="https://falconllm.tii.ae/" target="_blank">  Falcon </a>    </b>  Tii  May 2023
 
+<b>  <a href="https://github.com/thunlp/UltraChat" target="_blank">  UltraLM </a>    </b>  Tsinghua University  June 2023
+
 <h2> AIGC Courses </h2>
 
 <b>  <a href="https://www.cs.princeton.edu/courses/archive/fall22/cos597G/" target="_blank">  COS597G Understanding Large Language Models  </a>    </b>   Princeton 2022
