@@ -403,6 +403,13 @@ Editing</a></td>
   <td>National University of Singapore & ByteDance</td>
    <td></td> 
 </tr>
+    <tr>
+  <td><a href="https://arxiv.org/pdf/2307.09288.pdf" target="_blank">Llama 2: Open Foundation and Fine-Tuned Chat Models</a></td>
+  <td>Llama 2</td>
+  <td>July 2023</td>
+  <td>Meta</td>
+   <td></td> 
+</tr>
   </table>
 
 
