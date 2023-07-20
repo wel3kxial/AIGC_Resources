@@ -562,6 +562,10 @@ Editing</a></td>
 
 <b>  <a href="https://github.com/thunlp/UltraChat" target="_blank">  UltraLM </a>    </b>  Tsinghua University  June 2023
 
+<b>  <a href="https://github.com/PKU-YuanGroup/ChatLaw" target="_blank">  ChatLaw </a>    </b>  Peking University  June 2023
+
+<b>  <a href="https://github.com/OptimalScale/LMFlow" target="_blank">  LMFlow </a>    </b>  HK University of Science and Technology  June 2023
+
 <h2> AIGC Courses </h2>
 
 <b>  <a href="https://www.cs.princeton.edu/courses/archive/fall22/cos597G/" target="_blank">  COS597G Understanding Large Language Models  </a>    </b>   Princeton 2022
