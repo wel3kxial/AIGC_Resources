@@ -403,6 +403,20 @@ Editing</a></td>
   <td>National University of Singapore & ByteDance</td>
    <td></td> 
 </tr>
+      <tr>
+  <td><a href="https://arxiv.org/pdf/2306.11644.pdf" target="_blank">Textbooks Are All You Need</a></td>
+  <td>phi-1</td>
+  <td>June 2023</td>
+  <td>Microsoft</td>
+   <td></td> 
+</tr>
+     <tr>
+  <td><a href="https://arxiv.org/pdf/2307.08691.pdf" target="_blank">FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning</a></td>
+  <td>FlashAttention-2/td>
+  <td>July 2023</td>
+  <td>Stanford University</td>
+   <td></td> 
+</tr>
     <tr>
   <td><a href="https://arxiv.org/pdf/2307.09288.pdf" target="_blank">Llama 2: Open Foundation and Fine-Tuned Chat Models</a></td>
   <td>Llama 2</td>
@@ -487,6 +501,12 @@ Editing</a></td>
     <td><a href="https://arxiv.org/pdf/2306.06211.pdf" target="_blank">Link</a></td>
     <td>May 2023</td>
     <td>JKyung Hee University and many</td>
+  </tr>
+   <tr>
+    <td>Large Multimodal Models: Notes on CVPR 2023 Tutoria/td>
+    <td><a href="https://arxiv.org/pdf/2306.14895.pdf" target="_blank">Link</a></td>
+    <td>June 2023</td>
+    <td>Microsoft</td>
   </tr>
   <tr>
     <td>Recent Advancements in End-to-End Autonomous Driving using Deep Learning: A Survey</td>
