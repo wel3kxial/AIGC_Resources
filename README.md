@@ -409,14 +409,13 @@ Editing</a></td>
   <td>June 2023</td>
   <td>Microsoft</td>
    <td></td> 
-
-      <tr>
+     <tr>
   <td><a href="https://arxiv.org/pdf/2307.05973.pdf" target="_blank">VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models</a></td>
   <td>VoxPoser</td>
   <td>June 2023</td>
   <td>Stanford University</td>
    <td></td> 
-</tr>
+     </tr>
      <tr>
   <td><a href="https://arxiv.org/pdf/2307.08691.pdf" target="_blank">FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning</a></td>
   <td>FlashAttention-2</td>
