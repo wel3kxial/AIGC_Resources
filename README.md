@@ -488,6 +488,18 @@ Editing</a></td>
     <td>May 2023</td>
     <td>JKyung Hee University and many</td>
   </tr>
+  <tr>
+    <td>Recent Advancements in End-to-End Autonomous Driving using Deep Learning: A Survey</td>
+    <td><a href="https://arxiv.org/pdf/2307.04370.pdf" target="_blank">Link</a></td>
+    <td>July 2023</td>
+    <td>IIT</td>
+  </tr>
+     <tr>
+    <td>Challenges and Applications of Large Language Models </td>
+    <td><a href="https://arxiv.org/pdf/2307.10169.pdf" target="_blank">Link</a></td>
+    <td>July 2023</td>
+    <td>UCL and many</td>
+  </tr>
 </table>
 
 
