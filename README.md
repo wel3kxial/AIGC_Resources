@@ -592,6 +592,8 @@ Editing</a></td>
 <b>  <a href="https://gpt-index.readthedocs.io/en/latest/" target="_blank">  Llama Index </a>    </b>  
 <b>  <a href="https://github.com/imartinez/privateGPT" target="_blank">  PrivateGPT</a>    </b>  
 <b>  <a href="https://github.com/ggerganov/llama.cpp" target="_blank">  Llama.cpp </a>    </b> 
+<b>  <a href="https://github.com/bigscience-workshop/petals" target="_blank">  petals </a>    </b> 
+<b>  <a href="https://github.com/FMInference/FlexGen" target="_blank">  FlexGen </a>    </b> 
 
 <h2> Main LLM Development Tips,   Updated June 21, 2023 </h2>
 <p> 1. Data is still king - LLMs are great but if you don't have quality clean data you won’t go far.</p>
