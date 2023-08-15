@@ -213,7 +213,7 @@ Gather AIGC most useful tools, materials, publications and reports
   <td></td>
   <td>April 2023</td>
   <td>Microsoft</td>
-  <td></td>
+   <td><a href="https://github.com/joonspk-research/generative_agents" target="_blank">Code</a></td>  
 </tr>
  <tr>
   <td><a href="https://arxiv.org/pdf/2304.08177.pdf" target="_blank">Efficient and Effective Text Encoding for Chinese LLaMA and Alpaca</a></td>
@@ -449,6 +449,14 @@ Editing</a></td>
   <td>Dynalang</td>
   <td>July 2023</td>
   <td>UC Berkeley</td>
+     <td></td> 
+</tr>
+    <tr>
+  <td><a href="https://arxiv.org/pdf/2307.15818.pdf" target="_blank">RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control
+</a></td>
+  <td>RT2</td>
+  <td>July 2023</td>
+  <td>Google DeepMind</td>
      <td></td> 
 </tr>
   <tr>
