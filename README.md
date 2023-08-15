@@ -437,7 +437,13 @@ Editing</a></td>
   <td>CMU and many</td>
      <td><a href="https://github.com/GAIR-NLP/factool" target="_blank">Code</a></td> 
 </tr>
-
+<tr>
+  <td><a href="https://arxiv.org/pdf/2307.01952.pdf" target="_blank">SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis</a></td>
+  <td>SDXL</td>
+  <td>July 2023</td>
+  <td>Stability AI</td>
+     <td><a href="https://github.com/Stability-AI/generative-models" target="_blank">Code</a></td>  
+</tr>
     <tr>
   <td><a href="https://arxiv.org/pdf/2308.01399.pdf" target="_blank">Learning to Model the World with Language</a></td>
   <td>Dynalang</td>
