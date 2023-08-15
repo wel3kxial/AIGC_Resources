@@ -430,6 +430,29 @@ Editing</a></td>
   <td>Meta</td>
    <td></td> 
 </tr>
+     <tr>
+  <td><a href="https://arxiv.org/pdf/2307.13528.pdf" target="_blank">FACTOOL: Factuality Detection in Generative AI， A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios</a></td>
+  <td>FACTOOL</td>
+  <td>July 2023</td>
+  <td>CMU and many</td>
+     <td><a href="https://github.com/GAIR-NLP/factool" target="_blank">Code</a></td> 
+</tr>
+
+    <tr>
+  <td><a href="https://arxiv.org/pdf/2308.01399.pdf" target="_blank">Learning to Model the World with Language</a></td>
+  <td>Dynalang</td>
+  <td>July 2023</td>
+  <td>UC Berkeley</td>
+     <td></td> 
+</tr>
+  <tr>
+  <td><a href="https://arxiv.org/pdf/2308.02151.pdf" target="_blank">Retroformer: retrospective large language agents with policy gradient optimization</a></td>
+  <td>Retroformer</td>
+  <td>Aug 2023</td>
+  <td>Salesforce</td></td>
+     <td></td> 
+</tr>
+
   </table>
 
 
