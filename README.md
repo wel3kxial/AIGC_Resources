@@ -579,6 +579,12 @@ Editing</a></td>
     <td>July 2023</td>
     <td>IIT</td>
   </tr>
+  <tr>
+    <td>A Survey on Evaluation of Large Language Models </td>
+    <td><a href="https://arxiv.org/pdf/2307.03109.pdf" target="_blank">Link</a></td>
+    <td>July 2023</td>
+    <td>Jilin University</td>
+  </tr>
      <tr>
     <td>Challenges and Applications of Large Language Models </td>
     <td><a href="https://arxiv.org/pdf/2307.10169.pdf" target="_blank">Link</a></td>
