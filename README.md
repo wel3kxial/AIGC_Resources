@@ -265,6 +265,13 @@ Recommender Systems</a></td>
   <td>Meta</td>
   <td></td>
 </tr>
+    <tr>
+  <td><a href="https://arxiv.org/pdf/2305.10429.pdf" target="_blank">DoReMi: Optimizing Data Mixtures Speeds Up Language Model Pretraining</a></td>
+  <td>DoReMi</td>
+  <td>May 2023</td>
+  <td>Google & Stanford University</td>
+  <td></td>
+</tr>
 <tr>
   <td><a href="https://arxiv.org/pdf/2305.10973.pdf" target="_blank">Drag Your GAN: Interactive Point-based Manipulation on the
 Generative Image Manifold</a></td>
