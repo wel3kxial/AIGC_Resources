@@ -461,7 +461,7 @@ Editing</a></td>
       <tr>
   <td><a href="https://arxiv.org/pdf/2307.03718.pdf" target="_blank">Frontier AI Regulation: Managing Emerging Risks to Public Safety
 </a></td>
-  <td>RT2</td>
+  <td></td>
   <td>July 2023</td>
   <td>OpenAI</td>
      <td></td> 
