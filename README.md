@@ -451,12 +451,34 @@ Editing</a></td>
   <td>UC Berkeley</td>
      <td></td> 
 </tr>
+        <tr>
+  <td><a href="https://arxiv.org/pdf/2307.15043.pdf" target="_blank">Universal and Transferable Adversarial Attacks on Aligned Language Models</a></td>
+  <td></td>
+  <td>July 2023</td>
+  <td>CMU</td>
+     <td></td> 
+</tr>
+      <tr>
+  <td><a href="https://arxiv.org/pdf/2307.03718.pdf" target="_blank">Frontier AI Regulation: Managing Emerging Risks to Public Safety
+</a></td>
+  <td>RT2</td>
+  <td>July 2023</td>
+  <td>OpenAI</td>
+     <td></td> 
+</tr>
     <tr>
   <td><a href="https://arxiv.org/pdf/2307.15818.pdf" target="_blank">RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control
 </a></td>
   <td>RT2</td>
   <td>July 2023</td>
   <td>Google DeepMind</td>
+     <td></td> 
+</tr>
+    <tr>
+  <td><a href="https://arxiv.org/pdf/2308.03688.pdf" target="_blank">AgentBench: Evaluating LLMs as Agents</a></td>
+  <td>AgentBench</td>
+  <td>Aug 2023</td>
+  <td>Tsinghua U, OSU and UC Berkeley</td>
      <td></td> 
 </tr>
   <tr>
