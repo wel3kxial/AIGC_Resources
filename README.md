@@ -495,11 +495,109 @@ Editing</a></td>
   <td>Salesforce</td>
      <td></td> 
 </tr>
+
+<tr>
+  <td><a href="https://arxiv.org/pdf/2311.05556.pdf" target="_blank">Lcm-Lora: A Universal Stable-Diffusion Acceleration Modul</a></td>
+  <td>LCM-LoRA</td>
+  <td>Nov 2023</td>
+  <td>Tsinghua University, HuggingFace </td>
+       <td></td>   
+</tr>
+
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2311.07069.pdf" target="_blank">Music Controlnet: Multiple Time-Varying Controls For Music Generation</a></td>
+  <td></td>
+  <td>Nov 2023</td>
+  <td>CMU, Adobe </td>
+       <td><a href="https://musiccontrolnet.github.io/web" target="_blank">Code</a></td>   
+</tr>
+
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2311.10982.pdf" target="_blank">Make Pixels Dance: High-Dynamic Video Generation</a></td>
+  <td></td>
+  <td>Nov 2023</td>
+  <td>ByteDance </td>
+       <td><a href="https://makepixelsdance.github.io" target="_blank">Code</a></td>   
+</tr>
+
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2311.10093.pdf" target="_blank">The Chosen One: Consistent Characters in Text-to-Image Diffusion Models</a></td>
+  <td></td>
+  <td>Nov 2023</td>
+  <td>Google & Many </td>
+       <td></td>   
+</tr>
+
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2311.11045.pdf" target="_blank">Orca 2: Teaching Small Language Models How to Reason</a></td>
+  <td>Orca 2</td>
+  <td>Nov 2023</td>
+  <td>Microsoft </td>
+       <td></td>   
+</tr>
+
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2312.00752.pdf" target="_blank">GAIA: A Benchmark for General AI Assistants </a></td>
+  <td>GAIA</td>
+  <td>Nov 2023</td>
+  <td> FAIR, Meta, HuggingFace, AutoGPT </td>
+       <td></td>   
+</tr>
+
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2312.00752.pdf" target="_blank">Mamba: Linear-Time Sequence Modeling with Selective State Spaces</a></td>
+  <td>Mamba</td>
+  <td>Dec 2023</td>
+  <td> CMU, Princeton University </td>
+       <td></td>   
+</tr>
+
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2312.02120.pdf" target="_blank">Magicoder: Source Code Is All You Need</a></td>
+  <td>Magicoder</td>
+  <td>Dec 2023</td>
+  <td> UIUC, Tsinghua University </td>
+       <td></td>   
+</tr>
+
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2312.03511.pdf" target="_blank">Kandinsky 3.0 Technical Report</a></td>
+  <td>Kandinsky</td>
+  <td>Dec 2023</td>
+  <td>Sber AI , AIRI </td>
+       <td></td>   
+</tr>
+
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2312.06550.pdf" target="_blank">LLM360: Towards Fully Transparent Open-Source LLMs</a></td>
+  <td>LLM360</td>
+  <td>Dec 2023</td>
+  <td>Petuum，BZUAI， CMU </td>
+       <td></td>   
+</tr>
+
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2401.00908.pdf" target="_blank">Docllm: A Layout-Aware Generative Language Model For Multimodal Document Understanding</a></td>
+  <td>Docllm</td>
+  <td>Dec 2023</td>
+  <td>JPMorgan</td>
+       <td></td>   
+</tr>
+
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2312.11514.pdf" target="_blank">LLM in a flash: Efficient Large Language Model Inference with Limited Memory</a></td>
+  <td></td>
+  <td>Jan 2024</td>
+  <td>Apple</td>
+       <td></td>   
+</tr>
+    
+    
  <tr>
   <td><a href="https://arxiv.org/pdf/2401.04088.pdf" target="_blank">Mixtral of Experts</a></td>
   <td></td>
   <td>Jan 2024</td>
-  <td>Mistral.ai/</td>
+  <td>Mistral.ai</td>
        <td></td>   
 </tr>
     
@@ -522,14 +620,14 @@ Editing</a></td>
   <td><a href="https://arxiv.org/pdf/2401.08541.pdf" target="_blank">Scalable Pre-training of Large Autoregressive Image Models </a></td>
   <td></td>
   <td>Jan 2024</td>
-  <td>Apple</td></td>
+  <td>Apple</td>
        <td><a href="https://github.com/apple/ml-aim" target="_blank">Code</a></td>   
 </tr>
  <tr>
   <td><a href="https://arxiv.org/pdf/2401.10020.pdf" target="_blank">Self-Rewarding Language Models </a></td>
   <td></td>
   <td>Jan 2024</td>
-  <td>Meta</td></td>
+  <td>Meta</td>
        <td></a></td>   
 </tr>
 
