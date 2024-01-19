@@ -591,7 +591,14 @@ Editing</a></td>
   <td>Apple</td>
        <td></td>   
 </tr>
-    
+
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2311.02462.pdf" target="_blank">Levels of AGI: Operationalizing Progress on the Path to AGI</a></td>
+  <td></td>
+  <td>Jan 2024</td>
+  <td>Google Deepmind</td>
+       <td></td>   
+</tr>
     
  <tr>
   <td><a href="https://arxiv.org/pdf/2401.04088.pdf" target="_blank">Mixtral of Experts</a></td>
@@ -794,6 +801,13 @@ Editing</a></td>
     <td>Tsinghua University</td>
   </tr>
   <tr>
+    <td>Unifying the Perspectives of NLP and Software Engineering: A Survey on Language Models for Code </td>
+    <td><a href="https://arxiv.org/pdf/2311.07989.pdf" target="_blank">Link</a></td>
+    <td>Dec 2023</td>
+    <td>Shanghai Jiao Tong Universit, Ant Group</td>
+  </tr>
+
+   <tr>
     <td>A Survey Of Reinforcement Learning From Human Feedback </td>
     <td><a href="https://arxiv.org/pdf/2312.14925.pdf" target="_blank">Link</a></td>
     <td>Dec 2023</td>
