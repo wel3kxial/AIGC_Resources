@@ -492,10 +492,39 @@ Editing</a></td>
   <td><a href="https://arxiv.org/pdf/2308.02151.pdf" target="_blank">Retroformer: retrospective large language agents with policy gradient optimization</a></td>
   <td>Retroformer</td>
   <td>Aug 2023</td>
-  <td>Salesforce</td></td>
+  <td>Salesforce</td>
      <td></td> 
 </tr>
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2401.04088.pdf" target="_blank">Mixtral of Experts</a></td>
+  <td></td>
+  <td>Jan 2024</td>
+  <td>Mistral.ai/</td>
+       <td></td>   
+</tr>
+    
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2401.05561.pdf" target="_blank">Trustllm: Trustworthiness In Large Language Model</a></td>
+  <td></td>
+  <td>Jan 2024</td>
+  <td>Many</td>
+       <td></td>   
+</tr>
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2401.08565.pdf" target="_blank">Tuning Language Models by Proxy</a></td>
+  <td></td>
+  <td>Jan 2024</td>
+  <td>University of Washington</td>
+       <td></td>   
+</tr>
 
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2401.08541.pdf" target="_blank">Scalable Pre-training of Large Autoregressive Image Models </a></td>
+  <td></td>
+  <td>Jan 2024</td>
+  <td>Apple</td></td>
+       <td><a href="https://github.com/apple/ml-aim" target="_blank">Code</a></td>   
+</tr>
  <tr>
   <td><a href="https://arxiv.org/pdf/2401.10020.pdf" target="_blank">Self-Rewarding Language Models </a></td>
   <td></td>
