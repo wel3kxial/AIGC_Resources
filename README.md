@@ -1,5 +1,5 @@
-# AIGC_Resources
-Gather AIGC most useful tools, materials, publications and reports
+# Gen AI_Resources
+Gather Gen AI most useful tools, materials, publications and reports
 
 <h2> Foundation Papers </h2>
 
