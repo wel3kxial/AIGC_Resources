@@ -598,6 +598,41 @@ Editing</a></td>
     <td>July 2023</td>
     <td>UCL and many</td>
   </tr>
+
+   <tr>
+    <td>Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives</td>
+    <td><a href="https://arxiv.org/pdf/2312.11970.pdf" target="_blank">Link</a></td>
+    <td>Dec 2023</td>
+    <td>Tsinghua University</td>
+  </tr>
+  <tr>
+    <td>A Survey Of Reinforcement Learning From Human Feedback </td>
+    <td><a href="https://arxiv.org/pdf/2312.14925.pdf" target="_blank">Link</a></td>
+    <td>Dec 2023</td>
+    <td>MCML Munich, Germany</td>
+  </tr>
+
+   <tr>
+    <td>Diffusion Models, Image Super-Resolution And Everything: A Survey </td>
+    <td><a href="https://arxiv.org/pdf/2401.00736.pdf" target="_blank">Link</a></td>
+    <td>Jan 2024</td>
+    <td>Many</td>
+  </tr>
+
+ <tr>
+    <td>Exploring Large Language Model based Intelligent Agents: definitions, methods, and prospects </td>
+    <td><a href="https://arxiv.org/pdf/2401.03428.pdf" target="_blank">Link</a></td>
+    <td>Jan 2024</td>
+    <td>The Chinese University of Hong Kong & Many</td>
+  </tr>
+
+   <tr>
+    <td>Large Language Models for Robotics:Opportunities, Challenges, and Perspectives </td>
+    <td><a href="https://arxiv.org/pdf/2401.04334.pdf" target="_blank">Link</a></td>
+    <td>Jan 2024</td>
+    <td>Many</td>
+  </tr>
+  
 </table>
 
 
