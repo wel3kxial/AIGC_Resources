@@ -497,6 +497,14 @@ Editing</a></td>
 </tr>
 
 <tr>
+  <td><a href="https://arxiv.org/pdf/2310.11511.pdf" target="_blank">Self-RAG: Learning To Retrieve, Generate, And Critique Through Self-Reflection</a></td>
+  <td>Self-RAG</td>
+  <td>Oct 2023</td>
+  <td>University of Washington，Allen Institute for AI ,IBM</td>
+       <td></td>   
+</tr>
+
+<tr>
   <td><a href="https://arxiv.org/pdf/2311.05556.pdf" target="_blank">Lcm-Lora: A Universal Stable-Diffusion Acceleration Modul</a></td>
   <td>LCM-LoRA</td>
   <td>Nov 2023</td>
@@ -541,6 +549,14 @@ Editing</a></td>
   <td>GAIA</td>
   <td>Nov 2023</td>
   <td> FAIR, Meta, HuggingFace, AutoGPT </td>
+       <td></td>   
+</tr>
+
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2310.10631.pdf" target="_blank">Llemma: An Open Language Model For Mathematic </a></td>
+  <td>Llemma</td>
+  <td>Dec 2023</td>
+  <td> Princeton University & Many </td>
        <td></td>   
 </tr>
 
@@ -898,6 +914,8 @@ Editing</a></td>
 <b>  <a href="https://www.deeplearning.ai/short-courses/" target="_blank">  ChatGPT, LangChain and DS Courses  </a>    </b>   Deeplearning.ai   Jun  2023
 
 <b>  <a href="https://arxiv.org/pdf/2306.14895.pdf" target="_blank"> Large Multimodal Models: Notes on CVPR 2023 Tutorial  </a>    </b>   Microsoft   Jun  2023
+
+<b>  <a href="https://openai.com/blog/introducing-the-gpt-store" target="_blank"> GPT Store  </a>    </b>   OpenAI   Jan 2024
 
 
 
