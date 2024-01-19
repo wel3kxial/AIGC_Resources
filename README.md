@@ -497,6 +497,31 @@ Editing</a></td>
 </tr>
 
 <tr>
+  <td><a href="https://arxiv.org/pdf/2309.12307.pdf" target="_blank">LongloRA: Efficient Fine-Tuning Of Long-Context Large Language Models</a></td>
+  <td>LongloRA</td>
+  <td>Sep 2023</td>
+  <td>CUHK ， MIT ， NVIDIA</td>
+       <td></td>   
+</tr>
+
+<tr>
+  <td><a href="https://arxiv.org/pdf/2309.12499.pdf" target="_blank">CodePlan: Repository-level Coding using LLMs and Planning</a></td>
+  <td>CodePlan</td>
+  <td>Sep 2023</td>
+  <td>Microsoft</td>
+       <td></td>   
+</tr>
+
+
+<tr>
+  <td><a href="https://arxiv.org/pdf/2310.08560.pdf" target="_blank">MemGPT: Towards Llms As Operating Systems</a></td>
+  <td>MemGPT</td>
+  <td>Oct 2023</td>
+  <td>UC Berkeley</td>
+       <td></td>   
+</tr>
+
+<tr>
   <td><a href="https://arxiv.org/pdf/2310.11511.pdf" target="_blank">Self-RAG: Learning To Retrieve, Generate, And Critique Through Self-Reflection</a></td>
   <td>Self-RAG</td>
   <td>Oct 2023</td>
@@ -905,6 +930,8 @@ Editing</a></td>
 
 <b>  <a href="https://github.com/OptimalScale/LMFlow" target="_blank">  LMFlow </a>    </b>  HK University of Science and Technology  June 2023
 
+<b>  <a href="https://openai.com/blog/introducing-the-gpt-store" target="_blank"> GPT Store  </a>    </b>   OpenAI   Jan 2024
+
 <h2> AIGC Courses </h2>
 
 <b>  <a href="https://www.cs.princeton.edu/courses/archive/fall22/cos597G/" target="_blank">  COS597G Understanding Large Language Models  </a>    </b>   Princeton 2022
@@ -915,7 +942,6 @@ Editing</a></td>
 
 <b>  <a href="https://arxiv.org/pdf/2306.14895.pdf" target="_blank"> Large Multimodal Models: Notes on CVPR 2023 Tutorial  </a>    </b>   Microsoft   Jun  2023
 
-<b>  <a href="https://openai.com/blog/introducing-the-gpt-store" target="_blank"> GPT Store  </a>    </b>   OpenAI   Jan 2024
 
 
 
