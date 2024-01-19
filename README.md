@@ -598,7 +598,6 @@ Editing</a></td>
     <td>July 2023</td>
     <td>UCL and many</td>
   </tr>
-
  <tr>
     <td>A Survey of Large Language Models in Medicine: Principles, Applications, and Challenges</td>
     <td><a href="https://arxiv.org/pdf/2311.05112.pdf" target="_blank">Link</a></td>
@@ -611,6 +610,19 @@ Editing</a></td>
     <td><a href="https://arxiv.org/pdf/2311.10723.pdf" target="_blank">Link</a></td>
     <td>Sep 2023</td>
     <td>Columbia University & Many</td>
+  </tr>
+
+  <tr>
+    <td>A Survey on Video Diffusion Models</td>
+    <td><a href="https://arxiv.org/pdf/2310.10647.pdf" target="_blank">Link</a></td>
+    <td>Oct 2023</td>
+    <td>Fudan University & Many</td>
+  </tr>
+    <tr>
+    <td>Learn From Model Beyond Fine-Tuning: A Survey</td>
+    <td><a href="https://arxiv.org/pdf/2310.08184.pdf" target="_blank">Link</a></td>
+    <td>Oct 2023</td>
+    <td>Wuhan University & Many</td>
   </tr>
   
   <tr>
@@ -657,6 +669,12 @@ Editing</a></td>
     <td><a href="https://arxiv.org/pdf/2401.03428.pdf" target="_blank">Link</a></td>
     <td>Jan 2024</td>
     <td>The Chinese University of Hong Kong & Many</td>
+  </tr>
+  <tr>
+    <td>AI Alignment: A Comprehensive Survey</td>
+    <td><a href="https://arxiv.org/pdf/2310.19852.pdf" target="_blank">Link</a></td>
+    <td>Jan 2024</td>
+    <td>Peking University & Many</td>
   </tr>
 
    <tr>
