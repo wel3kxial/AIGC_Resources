@@ -599,6 +599,39 @@ Editing</a></td>
     <td>UCL and many</td>
   </tr>
 
+ <tr>
+    <td>A Survey of Large Language Models in Medicine: Principles, Applications, and Challenges</td>
+    <td><a href="https://arxiv.org/pdf/2311.05112.pdf" target="_blank">Link</a></td>
+    <td>Sep 2023</td>
+    <td>University of Oxford & Many</td>
+  </tr>
+  
+ <tr>
+    <td>Large Language Models in Finance: A Survey</td>
+    <td><a href="https://arxiv.org/pdf/2311.10723.pdf" target="_blank">Link</a></td>
+    <td>Sep 2023</td>
+    <td>Columbia University & Many</td>
+  </tr>
+  
+  <tr>
+    <td>A Survey on Multimodal Large Language Models for Autonomous Driving</td>
+    <td><a href="https://arxiv.org/pdf/2311.12320.pdf" target="_blank">Link</a></td>
+    <td>Nov 2023</td>
+    <td>Purdue University & Many</td>
+  </tr>
+  <tr>
+    <td>Green Edge AI: A Contemporary Survey</td>
+    <td><a href="https://arxiv.org/pdf/2312.00333.pdf" target="_blank">Link</a></td>
+    <td>Dec 2023</td>
+    <td>Nanjing University</td>
+  </tr>
+ <tr>
+    <td>Efficient Large Language Models: A Survey </td>
+    <td><a href="https://arxiv.org/pdf/2312.03863.pdf" target="_blank">Link</a></td>
+    <td>Dec 2023</td>
+    <td>Ohio State U</td>
+  </tr>
+  
    <tr>
     <td>Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives</td>
     <td><a href="https://arxiv.org/pdf/2312.11970.pdf" target="_blank">Link</a></td>
