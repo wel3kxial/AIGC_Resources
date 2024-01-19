@@ -496,6 +496,22 @@ Editing</a></td>
      <td></td> 
 </tr>
 
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2401.10020.pdf" target="_blank">Self-Rewarding Language Models </a></td>
+  <td></td>
+  <td>Jan 2024</td>
+  <td>Meta</td></td>
+       <td></a></td>   
+</tr>
+
+ <tr>
+  <td><a href="https://mobile-aloha.github.io/resources/mobile-aloha.pdf" target="_blank">Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation </a></td>
+  <td>Mobile ALOHA</td>
+  <td>Jan 2024</td>
+  <td>Stanford Univeristy</td></td>
+       <td><a href="https://mobile-aloha.github.io/" target="_blank">Code</a></td>   
+</tr>
+
   </table>
 
 
