@@ -676,7 +676,7 @@ Editing</a></td>
   <td></td>
   <td>Jan 2024</td>
   <td>Meta</td>
-       <td></a></td>   
+       <td></td>   
 </tr>
 
  <tr>
@@ -685,6 +685,15 @@ Editing</a></td>
   <td>Jan 2024</td>
   <td>Stanford Univeristy</td></td>
        <td><a href="https://mobile-aloha.github.io/" target="_blank">Code</a></td>   
+</tr>
+
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2501.12948" target="_blank">DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning </a
+</td>
+  <td>Deepseek R1 </td>
+  <td>Jan 2025</td>
+  <td>Deepseek</td></td>
+      <td></td>   
 </tr>
 
   </table>
@@ -931,6 +940,8 @@ Editing</a></td>
 <b>  <a href="https://github.com/OptimalScale/LMFlow" target="_blank">  LMFlow </a>    </b>  HK University of Science and Technology  June 2023
 
 <b>  <a href="https://openai.com/blog/introducing-the-gpt-store" target="_blank"> GPT Store  </a>    </b>   OpenAI   Jan 2024
+
+<b>  <a href="https://github.com/black-forest-labs/flux" target="_blank"> Flux  </a>    </b>   bfl.ai   Aug 2024
 
 <h2> AIGC Courses </h2>
 
