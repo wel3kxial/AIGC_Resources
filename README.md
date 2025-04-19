@@ -688,12 +688,59 @@ Editing</a></td>
 </tr>
 
  <tr>
+  <td><a href="https://arxiv.org/pdf/2412.19437" target="_blank">DeepSeek-V3 Technical Report </a>
+</td>
+  <td>Deepseek V3 </td>
+  <td>Dec 2024</td>
+  <td>Deepseek</td></td>
+      <td><a href="https://github.com/deepseek-ai/DeepSeek-V3" target="_blank">Code</a></td>   
+</tr>
+
+ <tr>
   <td><a href="https://arxiv.org/pdf/2501.12948" target="_blank">DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning </a>
 </td>
   <td>Deepseek R1 </td>
   <td>Jan 2025</td>
   <td>Deepseek</td></td>
       <td><a href="https://github.com/deepseek-ai/DeepSeek-R1/tree/main" target="_blank">Code</a></td>   
+</tr>
+
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2504.07491" target="_blank">Kimi-VL Technical Report </a>
+</td>
+  <td>Kimi-VL </td>
+  <td>Apr 2025</td>
+  <td>Kimi</td></td>
+      <td><a href="https://github.com/MoonshotAI/Kimi-VL" target="_blank">Code</a></td>   
+</tr>
+
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2504.08685" target="_blank">Seaweed-7B: Cost-Effective Training of Video Generation Foundation Model </a>
+</td>
+  <td>Seaweed-7B </td>
+  <td>Apr 2025</td>
+  <td>ByteDance</td></td>
+      <td><a href="https://seaweed.video" target="_blank">Code</a></td>   
+</tr>
+
+
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2504.10479" target="_blank">InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models </a>
+</td>
+  <td>InternVL3 </td>
+  <td>Apr 2025</td>
+  <td>Many</td></td>
+      <td><a href="https://github.com/OpenGVLab/InternVL" target="_blank">Code</a></td>   
+</tr>
+
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2504.08791" target="_blank">PRIMA.CPP: Speeding Up 70B-Scale LLM Inference on Low-Resource Everyday Home Clusters
+</a>
+</td>
+  <td>PRIMA.CPP </td>
+  <td>Apr 2025</td>
+  <td>UAE</td></td>
+      <td><a href="https://github.com/Lizonghang/prima.cpp" target="_blank">Code</a></td>   
 </tr>
 
   </table>
@@ -889,6 +936,13 @@ Editing</a></td>
     <td><a href="https://arxiv.org/pdf/2401.04334.pdf" target="_blank">Link</a></td>
     <td>Jan 2024</td>
     <td>Many</td>
+  </tr>
+
+   <tr>
+    <td>Efficient Reasoning Models: A Survey </td>
+    <td><a href="https://arxiv.org/pdf/2504.10903" target="_blank">Link</a></td>
+    <td>Apr 2025</td>
+    <td>NUS</td>
   </tr>
   
 </table>
