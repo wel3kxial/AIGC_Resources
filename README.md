@@ -687,6 +687,7 @@ Editing</a></td>
        <td><a href="https://mobile-aloha.github.io/" target="_blank">Code</a></td>   
 </tr>
 
+
  <tr>
   <td><a href="https://arxiv.org/pdf/2412.19437" target="_blank">DeepSeek-V3 Technical Report </a>
 </td>
@@ -704,6 +705,61 @@ Editing</a></td>
   <td>Deepseek</td></td>
       <td><a href="https://github.com/deepseek-ai/DeepSeek-R1/tree/main" target="_blank">Code</a></td>   
 </tr>
+
+<tr>
+  <td><a href="https://arxiv.org/pdf/2501.04519" target="_blank">rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking</a>
+</td>
+  <td>rStar-Math </td>
+  <td>Jan 2025</td>
+  <td>Microsoft Research Asia</td></td>
+      <td><a href="https://github.com/microsoft/rStar" target="_blank">Code</a></td>   
+</tr>
+
+<tr>
+  <td><a href="https://arxiv.org/pdf/2501.08313" target="_blank">MiniMax-01: Scaling Foundation Models with Lightning Attention</a>
+</td>
+  <td>MiniMax-01 </td>
+  <td>Jan 2025</td>
+  <td>MiniMax</td></td>
+      <td><a href="https://github.com/MiniMax-AI/MiniMax-01" target="_blank">Code</a></td>   
+</tr>
+
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2502.13923" target="_blank">Qwen2.5-VL Technical Report</a>
+</td>
+  <td>Qwen2.5-VL </td>
+  <td>Feb 2025</td>
+  <td>RWKV</td></td>
+      <td><a href="https://github.com/QwenLM/Qwen2.5-VL" target="_blank">Code</a></td>   
+</tr>
+
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2503.14456" target="_blank">RWKV-7 "Goose" with Expressive Dynamic State Evolution </a>
+</td>
+  <td>RWKV-7 </td>
+  <td>Mar 2025</td>
+  <td>RWKV</td></td>
+      <td><a href="https://github.com/RWKV/RWKV-LM" target="_blank">Code</a></td>   
+</tr>
+
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2503.20215" target="_blank">Qwen2.5-Omni Technical Report </a>
+</td>
+  <td>Qwen2.5-Omni </td>
+  <td>Mar 2025</td>
+  <td>Alibaba</td></td>
+      <td><a href="https://github.com/QwenLM/Qwen2.5-Omni" target="_blank">Code</a></td>   
+</tr>
+
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2504.05299" target="_blank">SmolVLM: Redefining small and efficient multimodal models </a>
+</td>
+  <td>SmolVLM </td>
+  <td>Apr 2025</td>
+  <td>Hugging Face, Stanford University</td>
+      <td><a href="https://github.com/huggingface/smollm" target="_blank">Code</a></td>   
+</tr>
+
 
  <tr>
   <td><a href="https://arxiv.org/pdf/2504.07491" target="_blank">Kimi-VL Technical Report </a>
@@ -935,6 +991,13 @@ Editing</a></td>
     <td>Large Language Models for Robotics:Opportunities, Challenges, and Perspectives </td>
     <td><a href="https://arxiv.org/pdf/2401.04334.pdf" target="_blank">Link</a></td>
     <td>Jan 2024</td>
+    <td>Many</td>
+  </tr>
+
+  <tr>
+    <td>Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems</td>
+    <td><a href="https://arxiv.org/pdf/2504.01990" target="_blank">Link</a></td>
+    <td>Apr 2025</td>
     <td>Many</td>
   </tr>
 
