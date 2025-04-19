@@ -1092,6 +1092,10 @@ Editing</a></td>
 
 <b>  <a href="https://agent-tars.com" target="_blank"> Agent Tars  </a>    </b>   ByteDance   Mar 2025
 
+<b>  <a href="https://openai.com/index/introducing-4o-image-generation/" target="_blank"> GPT4o Image Generation  </a>    </b>   Openai   Mar 2025
+
+<b>  <a href="https://openai.com/index/o3-o4-mini-system-card/" target="_blank"> OpenAI o3 and o4-mini   </a>    </b>   Openai   Apr 2025
+
 
 <h2> Gen AI Courses </h2>
 
@@ -1158,6 +1162,13 @@ Editing</a></td>
 <p>5. User query distribution is not in line with the benchmarks we usually use, many companies have user query distribution, which has already created a barrier. During the annotation process, people need to act according to the assumed persona, then the data will be good. 
 <p>6. Regarding the improvement of LLama 2's reasoning-intensive ability, llama's pre-training and ft did not target this improvement. 2T tokens may still be far from enough, it could be 4T, 5T, or the important data could be viewed several times. There is still a lot of room in LLama 2, saturation has not been seen. And it actually has a lot of knowledge in it, but this knowledge has not been played out, which is a problem of alignment. 
 <p>7.  Data mixsure, continuous training. When continuous training, it is best to mix general data with your domain data for training, which will reduce the probability of destroying the original ability of the model. LLaMA's web data mixture is already excellent, using methods like DoReMi or DRO (Distributional Robust Optimization) does not fill gaps, but simply takes care of the worse ones, not the expected mixture result. 
+
 <p>8. SFT, rlhf comparison and combination. SFT is a subset and prelude to rlhf. There are no case-by-case comparative studies on these two yet. 
 <p>9. MoE increases model capacity without changing latency. In the impossible situation of infinitely increasing model size, it is a way to increase capacity. Adding MoE initially will lose performance, so you need to first train to the original level. 
 <p>10. One way to deploy Llama 2 into applications, which (llama 2 ) lacks mathematical ability, is to make it an agent, and when necessary, call a model with strong mathematical ability to solve problems. 
+
+<h2> Main LLM/Agent Development Tips,   Updated Apr 18, 2025 </h2>
+<p>Agent is the main research and deployment topic in 2025, General Agent is still not yet.  Multi Agent communication and effiency is still under research</p>
+<p>AI engineering: Frontend coding is basically solved, backend and complex logics in design patterns are not yet.</p>
+<p>Robotics:  Foundation Models are improved greatly, synthetic datas are widely used for traning.</p>
+<p>MLLM:  Editing is still the most challenging part, training text/image/ alignment in LLM or Diffusion Model or Connectors are all explored </p>
