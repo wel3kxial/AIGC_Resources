@@ -688,12 +688,12 @@ Editing</a></td>
 </tr>
 
  <tr>
-  <td><a href="https://arxiv.org/pdf/2501.12948" target="_blank">DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning </a
+  <td><a href="https://arxiv.org/pdf/2501.12948" target="_blank">DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning </a>
 </td>
   <td>Deepseek R1 </td>
   <td>Jan 2025</td>
   <td>Deepseek</td></td>
-      <td></td>   
+      <td><a href="https://github.com/deepseek-ai/DeepSeek-R1/tree/main" target="_blank">Code</a></td>   
 </tr>
 
   </table>
