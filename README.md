@@ -1168,7 +1168,8 @@ Editing</a></td>
 <p>10. One way to deploy Llama 2 into applications, which (llama 2 ) lacks mathematical ability, is to make it an agent, and when necessary, call a model with strong mathematical ability to solve problems. 
 
 <h2> Main LLM/Agent Development Tips,   Updated Apr 18, 2025 </h2>
-<p>Agent is the main research and deployment topic in 2025, General Agent is still not yet.  Multi Agent communication and effiency is still under research</p>
-<p>AI engineering: Frontend coding is basically solved, backend and complex logics in design patterns are not yet.</p>
-<p>Robotics:  Foundation Models are improved greatly, synthetic datas are widely used for traning.</p>
-<p>MLLM:  Editing is still the most challenging part, training text/image/ alignment in LLM or Diffusion Model or Connectors are all explored </p>
+<p>1. Agent is the main research and deployment topic in 2025, General Agent is still not yet.  Multi Agent communication and effiency is still under research</p>
+<p>2. AI engineering: Frontend coding is basically solved, backend and complex logics in design patterns are not yet.</p>
+<p>3. Robotics:  Foundation Models are improved greatly, synthetic datas are widely used for traning.</p>
+<p>4. MLLM:  Editing is still the most challenging part, training text/image/ alignment in LLM or Diffusion Model or Connectors are all explored </p>
+<p>5. Small Models in Edge devices research are getting hotter. </p>
