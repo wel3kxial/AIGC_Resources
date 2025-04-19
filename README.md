@@ -1097,16 +1097,13 @@ Editing</a></td>
 
 <b>  <a href="https://www.cs.princeton.edu/courses/archive/fall22/cos597G/" target="_blank">  COS597G Understanding Large Language Models  </a>    </b>   Princeton 2022
 
-<b>  <a href="https://stanford-cs324.github.io/winter2022/" target="_blank">  CS324 Large Language Models  </a>    </b>   Stanford  2023
+<b>  <a href="https://stanford-cs324.github.io/winter2022/" target="_blank">  CS324 Large Language Models  </a>    </b>   Stanford  Winter 2022
 
 <b>  <a href="https://www.deeplearning.ai/short-courses/" target="_blank">  ChatGPT, LangChain and DS Courses  </a>    </b>   Deeplearning.ai   Jun  2023
 
-<b>  <a href="https://arxiv.org/pdf/2306.14895.pdf" target="_blank"> Large Multimodal Models: Notes on CVPR 2023 Tutorial  </a>    </b>   Microsoft   Jun  2023
+<b>  <a href="https://rdi.berkeley.edu/llm-agents/f24" target="_blank"> CS294 Large Language Model Agents  </a>    </b>   UC Berkeley   Fall 2024
 
-<b>  <a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank"> Awesome MCP Servers  </a>    </b>     Apr 2025
-
-
-
+<b>  <a href="https://cs329a.stanford.edu/" target="_blank"> CS329A Self-Improving AI Agents  </a>    </b>   Stanford   Winter 2025
 
 <h2> Very Useful Source Code </h2>
 
@@ -1118,7 +1115,9 @@ Editing</a></td>
 <b>  <a href="https://github.com/FMInference/FlexGen" target="_blank">  FlexGen </a>    </b>  <br>
 <b>  <a href="https://github.com/FlowiseAI/Flowise" target="_blank">  Flowise </a>    </b>  <br>
 <b>  <a href="https://github.com/huggingface/candle" target="_blank">  Candle </a>    </b>  <br>
-<b>  <a href="https://github.com/Yidadaa/ChatGPT-Next-Web" target="_blank">  ChatGPT Next Web </a>    </b>  <br>
+<b>  <a href="https://github.com/Yidadaa/ChatGPT-Next-Web" target="_blank">  ChatGPT Next Web </a>    </b>  
+<b>  <a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank"> Awesome MCP Servers  </a>   </b>   
+<br/>
 
 <h2> Main LLM Development Tips,   Updated June 21, 2023 </h2>
 <p> 1. Data is still king - LLMs are great but if you don't have quality clean data you won’t go far.</p>
