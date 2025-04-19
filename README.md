@@ -753,7 +753,7 @@ Editing</a></td>
 </td>
   <td>Qwen2.5-VL </td>
   <td>Feb 2025</td>
-  <td>RWKV</td></td>
+  <td>Alibaba</td></td>
       <td><a href="https://github.com/QwenLM/Qwen2.5-VL" target="_blank">Code</a></td>   
 </tr>
 
