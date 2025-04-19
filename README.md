@@ -687,6 +687,30 @@ Editing</a></td>
        <td><a href="https://mobile-aloha.github.io/" target="_blank">Code</a></td>   
 </tr>
 
+<tr>
+  <td><a href="https://arxiv.org/pdf/2402.14905" target="_blank">MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases </a></td>
+  <td>MobileLLM</td>
+  <td>Feb 2024</td>
+  <td>Meta</td></td>
+       <td></td>   
+</tr>
+
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2402.17764" target="_blank">The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits </a></td>
+  <td>BitNet b1.58</td>
+  <td>Feb 2024</td>
+  <td>aka.ms</td></td>
+       <td></td>   
+</tr>
+
+ <tr>
+  <td><a href="https://arxiv.org/pdf/2404.14219" target="_blank">Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone </a></td>
+  <td>Phi-3</td>
+  <td>Aug 2024</td>
+  <td>Microsoft</td></td>
+       <td></td>   
+</tr>
+
 
  <tr>
   <td><a href="https://arxiv.org/pdf/2412.19437" target="_blank">DeepSeek-V3 Technical Report </a>
@@ -1060,7 +1084,16 @@ Editing</a></td>
 
 <b>  <a href="https://github.com/black-forest-labs/flux" target="_blank"> Flux  </a>    </b>   bfl.ai   Aug 2024
 
-<h2> AIGC Courses </h2>
+<b>  <a href="https://www.anthropic.com/news/model-context-protocol" target="_blank"> Model Context Protocol  </a>    </b>   Anthropic   Nov 2024
+
+<b>  <a href="https://github.com/hiroi-sora/Umi-OCR" target="_blank"> Umi-OCR  </a>    </b>    Mar 2025
+
+<b>  <a href="https://manus.im" target="_blank"> Manus  </a>    </b>   Manus   Mar 2025
+
+<b>  <a href="https://agent-tars.com" target="_blank"> Agent Tars  </a>    </b>   ByteDance   Mar 2025
+
+
+<h2> Gen AI Courses </h2>
 
 <b>  <a href="https://www.cs.princeton.edu/courses/archive/fall22/cos597G/" target="_blank">  COS597G Understanding Large Language Models  </a>    </b>   Princeton 2022
 
@@ -1069,6 +1102,8 @@ Editing</a></td>
 <b>  <a href="https://www.deeplearning.ai/short-courses/" target="_blank">  ChatGPT, LangChain and DS Courses  </a>    </b>   Deeplearning.ai   Jun  2023
 
 <b>  <a href="https://arxiv.org/pdf/2306.14895.pdf" target="_blank"> Large Multimodal Models: Notes on CVPR 2023 Tutorial  </a>    </b>   Microsoft   Jun  2023
+
+<b>  <a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank"> Awesome MCP Servers  </a>    </b>     Apr 2025
 
 
 
