@@ -87,7 +87,7 @@ Gather Gen AI most useful tools, materials, publications and reports
   </tbody>
 </table>
 
-<h2> Recent Papers </h2>
+<h2> LLM/MLLM Papers </h2>
   <table>
     <tr>
       <th>Title</th>
