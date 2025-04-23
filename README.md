@@ -1,5 +1,7 @@
 # Gen AI_Resources
-Gather Gen AI most useful tools, materials, publications and reports
+Gather Gen AI most useful tools, materials, publications and reports by Tom Kong
+AI Podcast: https://www.youtube.com/@InnovatorCoffee
+Tom Kong's Piano Composition: https://www.youtube.com/@TomPiano7
 
 <h2> Foundation Papers </h2>
 
