@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/wel3kxial-aigc-resources-badge.png)](https://mseep.ai/app/wel3kxial-aigc-resources)
+
 # Gen AI_Resources
 Gather Gen AI most useful tools, materials, publications and reports by Tom Kong <br />
 AI Podcast: https://www.youtube.com/@InnovatorCoffee   <br />
